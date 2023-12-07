@@ -1,6 +1,6 @@
 # 🌍 Awesome Large Weather Models (LWMs) | AI for Earth (AI4E) | AI for Science (AI4S)
 ## 🧭 Guideline
-A collection of articles on Large Weather Models (LWMs), to make it easier to find and learn.
+A collection of articles on **Large Weather Models (LWMs)**, to make it easier to find and learn.
 - [🌍 Awesome Large Weather Models (LWMs) | AI for Earth (AI4E) | AI for Science (AI4S)](#-awesome-large-weather-models-lwms--ai-for-earth-ai4e--ai-for-science-ai4s)
   - [🧭 Guideline](#-guideline)
   - [🗂️ LWMs Lists](#️-lwms-lists)
