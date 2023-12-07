@@ -2,7 +2,7 @@
 A collection of articles on AI for meteorology, to make it easier to find and learn.
 ## 🗂️ LWMs
 
-| LWM Name      | From            | First  Pub. Time | Final Pub Site | Ref. Links                                                   |
+| LWM name     | From            | Date of first submission | Final publication | Related links                                      |
 | ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ |
 | MetNet   | Google        | 2020.03        | -              | [[paper]](https://arxiv.org/abs/2003.12140) [[github]](https://github.com/openclimatefix/metnet) |
 | FourCastNet   | NVIDIA        | 2022.02          | -              | [[paper]](https://arxiv.org/abs/2202.11214) [[github]](https://github.com/NVlabs/FourCastNet) |
