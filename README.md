@@ -1,7 +1,12 @@
-# 🌍 Awesome Large Weather Models (LWMs)
+# 🌍 Awesome Large Weather Models (LWMs) | AI for Earth (AI4E) | AI for Science (AI4S)
+## 🧭 Guideline
 A collection of articles on AI for meteorology, to make it easier to find and learn.
-## 🗂️ LWMs
+- [🌍 Awesome Large Weather Models (LWMs) | AI for Earth (AI4E) | AI for Science (AI4S)](#-awesome-large-weather-models-lwms--ai-for-earth-ai4e--ai-for-science-ai4s)
+  - [🧭 Guideline](#-guideline)
+  - [🗂️ LWMs Lists](#️-lwms-lists)
+  - [📖 Meteorological Related Papers](#-meteorological-related-papers)
 
+## 🗂️ LWMs Lists
 | LWM name     | From            | Date(1st) | Publication | Links                                     |
 | ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ |
 | MetNet   | Google        | 2020.03        | -              | [[paper]](https://arxiv.org/abs/2003.12140) [[github]](https://github.com/openclimatefix/metnet) |
