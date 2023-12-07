@@ -1,10 +1,11 @@
 # 🌍 Awesome Large Weather Models (LWMs) | AI for Earth (AI4E) | AI for Science (AI4S)
 ## 🧭 Guideline
-A collection of articles on AI for meteorology, to make it easier to find and learn.
+A collection of articles on Large Weather Models (LWMs), to make it easier to find and learn.
 - [🌍 Awesome Large Weather Models (LWMs) | AI for Earth (AI4E) | AI for Science (AI4S)](#-awesome-large-weather-models-lwms--ai-for-earth-ai4e--ai-for-science-ai4s)
   - [🧭 Guideline](#-guideline)
   - [🗂️ LWMs Lists](#️-lwms-lists)
-  - [📖 Meteorological Related Papers](#-meteorological-related-papers)
+  - [📖 Papers](#-papers)
+  - [🧊 Meteorology](#-meteorology)
 
 ## 🗂️ LWMs Lists
 | LWM name     | From            | Date(1st) | Publication | Links                                     |
@@ -24,7 +25,7 @@ A collection of articles on AI for meteorology, to make it easier to find and le
 
 
 
-## 📖 Meteorological Related Papers
+## 📖 Papers
 
 - Can deep learning beat numerical weather prediction?
 - WeatherBench: A benchmark dataset for data-driven weather forecasting
@@ -48,3 +49,8 @@ Skilful nowcasting of extreme precipitation with NowcastNet (NowcastNet)
 - PreDiff: Precipitation Nowcasting with Latent Diffusion Models
 - SFNO: Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere
 - Anthropogenic fingerprints in daily precipitation revealed by deep learning
+  
+## 🧊 Meteorology
+- IPCC
+- IMO | WMO
+- ECMWF
