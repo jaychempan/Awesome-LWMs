@@ -12,10 +12,10 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ |
 | MetNet   | Google        | 2020.03        | -              | [[paper]](https://arxiv.org/abs/2003.12140) [[github]](https://github.com/openclimatefix/metnet) |
 | FourCastNet   | NVIDIA        | 2022.02          | -              | [[paper]](https://arxiv.org/abs/2202.11214) [[github]](https://github.com/NVlabs/FourCastNet) |
-| MetNet-2   | Google        | 2022.09        | Nature Communications | [[paper]](https://www.nature.com/articles/s41467-022-32483-x)  |
+| MetNet-2   | Google        | 2022.09        | Nature Communications | [[paper]](https://www.nature.com/articles/s41467-022-32483-x) [[github]](https://github.com/openclimatefix/metnet)  |
 | Pangu-Weather | Huaiwei         | 2022.11          | Nature         | [[paper]](https://www.nature.com/articles/s41586-023-06185-3) [[github]](https://github.com/198808xc/Pangu-Weather) |
 | GraphCast     | DeepMind        | 2022.12          | Science        | [[paper]](https://www.science.org/doi/10.1126/science.adi2336) [[github]](https://github.com/google-deepmind/graphcast) |
-| ClimaX        | Microsoft       | 2023.01          | ICML 2023      | [[paper]](https://www.science.org/doi/10.1126/science.adi2336) [[github]](https://github.com/google-deepmind/graphcast) |
+| ClimaX        | Microsoft       | 2023.01          | ICML 2023      | [[paper]](https://www.science.org/doi/10.1126/science.adi2336) [[github]](https://github.com/microsoft/ClimaX) |
 | Fengwu        | Shanghai AI Lab | 2023.04          | -              | [[paper]](https://arxiv.org/abs/2304.02948) [[github]](https://github.com/OpenEarthLab/FengWu) |
 | MetNet-3  | Google        | 2023.06        | - | [[paper]](https://arxiv.org/abs/2306.06079)  |
 | Fuxi          | Fudan           | 2023.06          | -              | [[paper]](https://arxiv.org/abs/2306.12873)  |
