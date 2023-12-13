@@ -10,7 +10,8 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 ## 🆕 LWMs News
 - 2023/12/13: Fuxi LWM is open source [[link]](https://github.com/tpys/ai-models-fuxi);
 - 2023/11/14: GraphCast published in Science [[link]](https://github.com/tpys/ai-models-fuxi)；
--  
+- 2023/09/14: Pangu-Weather published in Nature [[link]](https://www.nature.com/articles/s41586-023-06185-3)；
+- 2023/08/25: ClimaX published in ICML 2023 [[link]](https://openreview.net/forum?id=TowCaiz7Ui)；
 ## 🗂️ LWMs Lists
 | LWM name     | From            | Date(1st) | Publication | Links                                     |
 | ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ |
