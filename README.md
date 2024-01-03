@@ -56,6 +56,7 @@ Skilful nowcasting of extreme precipitation with NowcastNet (NowcastNet)
 - PreDiff: Precipitation Nowcasting with Latent Diffusion Models
 - SFNO: Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere
 - Anthropogenic fingerprints in daily precipitation revealed by deep learning
+- GenCast: Diffusion-based ensemble forecasting for medium-range weather
   
 ## 🧊 Meteorology
 - IPCC
