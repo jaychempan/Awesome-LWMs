@@ -8,7 +8,8 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
   - [📖 Papers](#-papers)
   - [🧊 Meteorology](#-meteorology)
 ## 🆕 LWMs News
-- 2023/12/13: Fuxi LWM is open source [[link]](https://github.com/tpys/ai-models-fuxi);
+- 2023/12/27: GenCast, a ML-based generative model for ensemble weather forecasting [[link]](https://arxiv.org/pdf/2312.15796);
+- 2023/12/13: Fuxi is open source [[link]](https://github.com/tpys/ai-models-fuxi);
 - 2023/11/14: GraphCast published in Science [[link]](https://github.com/tpys/ai-models-fuxi)；
 - 2023/09/14: Pangu-Weather published in Nature [[link]](https://www.nature.com/articles/s41586-023-06185-3)；
 - 2023/08/25: ClimaX published in ICML 2023 [[link]](https://openreview.net/forum?id=TowCaiz7Ui)；
@@ -27,6 +28,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | NowcastNet   | Tsinghua        | 2023.07         | Nature      | [[paper]](https://www.nature.com/articles/s41586-023-06184-4) |
 | AI-GOMS       | Tsinghua        | 2023.08          | -              | [[paper]](https://arxiv.org/abs/2308.03152)                  |
 | Fuxi-Extreme    | Fudan           | 2023.10        | -              | [[paper]](https://arxiv.org/abs/2310.19822) |
+| GenCast    | DeepMind           | 2023.12        | -              | [[paper]](https://arxiv.org/pdf/2312.15796) |
 
 
 
