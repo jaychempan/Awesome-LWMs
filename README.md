@@ -6,9 +6,23 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
   - [🆕 LWMs News](#-lwms-news)
   - [🗂️ LWMs Lists](#️-lwms-lists)
   - [📖 Papers](#-papers)
+    - [WeatherBench](#weatherbench)
+    - [MetNet](#metnet)
+    - [FourCastNet](#fourcastnet)
+    - [Pangu-Weather](#pangu-weather)
+    - [GraphCast](#graphcast)
+    - [ClimaX](#climax)
+    - [FengWu](#fengwu)
+    - [FuXi](#fuxi)
+    - [AI-GOMS](#ai-goms)
+    - [FNO](#fno)
+    - [Nowcast](#nowcast)
+    - [More](#more)
   - [🧊 Meteorology](#-meteorology)
 ## 🆕 LWMs News
+- 2024/01/28: FengWu-GHR, the first data-driven global weather forecasting model running at the 0.09∘ horizontal resolution [[link]](https://arxiv.org/abs/2402.00059);
 - 2023/12/27: GenCast, a ML-based generative model for ensemble weather forecasting [[link]](https://arxiv.org/pdf/2312.15796);
+- 2023/12/16: Four-Dimensional Variational (4DVar) assimilation, and develop an AI-based cyclic weather forecasting system, FengWu-4DVar [[link]](https://arxiv.org/abs/2312.12455);
 - 2023/11/13: GCMs are physics-based simulators which combine a numerical solver for large-scale dynamics with tuned representations for small-scale processes such as cloud formation. [[link]](https://arxiv.org/abs/2311.07222);
 - 2023/12/13: Fuxi is open source [[link]](https://github.com/tpys/ai-models-fuxi);
 - 2023/11/14: GraphCast published in Science [[link]](https://github.com/tpys/ai-models-fuxi)；
@@ -30,37 +44,54 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | AI-GOMS       | Tsinghua        | 2023.08          | -              | [[paper]](https://arxiv.org/abs/2308.03152)                  |
 | Fuxi-Extreme    | Fudan           | 2023.10        | -              | [[paper]](https://arxiv.org/abs/2310.19822) |
 | NeuralGCM    | DeepMind           | 2023.11        | -              | [[paper]](https://arxiv.org/abs/2311.07222) |
+| FengWu-4DVar    | Tsinghua           | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.12455) |
 | GenCast    | DeepMind           | 2023.12        | -              | [[paper]](https://arxiv.org/pdf/2312.15796) |
+| FengWu-GHR    | Shanghai AI Lab           | 2024.01        | -              | [[paper]](https://arxiv.org/abs/2402.00059) |
 
 
 
 
 ## 📖 Papers
 
-- Can deep learning beat numerical weather prediction?
-- WeatherBench: A benchmark dataset for data-driven weather forecasting
-- WeatherBench 2: A benchmark for the next generation of data-driven global weather models
-- MetNet: A Neural Weather Model for Precipitation Forecasting (MetNet)
-- Deep learning for twelve hour precipitation forecasts (MetNet-2)
-- Deep Learning for Day Forecasts from Sparse Observations (MetNet-3)
-- Skilful nowcasting of extreme precipitation with NowcastNet (NowcastNet)
-- FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (FourCastNet)
-- Accurate medium-range global weather forecasting with 3D neural networks (Pangu-Weather)
-- Learning skillful medium-range global weather forecasting (GraphCast)
-- ClimaX: A foundation model for weather and climate (ClimaX)
-- FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead (FengWu)
-- FuXi: A cascade machine learning forecasting system for 15-day global weather forecast (FuXi)
-- FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model (FuXi-Extreme)
-- AI-GOMS: Large AI-Driven Global Ocean Modeling System (AI-GOMS)
+### WeatherBench
+- WeatherBench: A benchmark dataset for data-driven weather forecasting [[paper]](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020MS002203)
+- WeatherBench 2: A benchmark for the next generation of data-driven global weather models [[paper]](https://arxiv.org/pdf/2308.15560)
+### MetNet
+- MetNet: A Neural Weather Model for Precipitation Forecasting (MetNet) [[paper]](https://arxiv.org/pdf/2003.12140)
+- Deep learning for twelve hour precipitation forecasts (MetNet-2) [[paper]](https://www.nature.com/articles/s41467-022-32483-x%3C/p%3E)
+- Deep Learning for Day Forecasts from Sparse Observations (MetNet-3) [[paper]](https://arxiv.org/pdf/2306.06079)
+### FourCastNet
+- FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (FourCastNet) [[paper]](https://arxiv.org/pdf/2202.11214)
+### Pangu-Weather
+- Accurate medium-range global weather forecasting with 3D neural networks (Pangu-Weather) [[paper]](https://www.nature.com/articles/s41586-023-06185-3)
+### GraphCast
+- Learning skillful medium-range global weather forecasting (GraphCast) [[paper]](https://www.science.org/doi/full/10.1126/science.adi2336)
+### ClimaX
+- ClimaX: A foundation model for weather and climate (ClimaX) [[paper]](https://arxiv.org/pdf/2301.10343)
+### FengWu
+- FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead (FengWu) [[paper]](https://arxiv.org/pdf/2304.02948)
+- FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation [[paper]](https://arxiv.org/pdf/2312.12455)
+- FengWu-GHR: Learning the Kilometer-scale Medium-range Global Weather Forecasting [[paper]](https://arxiv.org/pdf/2402.00059)
+### FuXi
+- FuXi: A cascade machine learning forecasting system for 15-day global weather forecast (FuXi) [[paper]](https://arxiv.org/pdf/2306.12873)
+- FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model (FuXi-Extreme) [[paper]](https://arxiv.org/abs/2310.19822)
+### AI-GOMS
+- AI-GOMS: Large AI-Driven Global Ocean Modeling System (AI-GOMS) [[paper]](https://arxiv.org/pdf/2308.03152)
+### FNO
+- Fourier Neural Operator with Learned Deformations for PDEs on General Geometries [[paper]](https://arxiv.org/pdf/2207.05209)
+- SFNO: Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere [[paper]](https://arxiv.org/pdf/2306.03838)
+
+### Nowcast
+- Earthformer: Exploring Space-Time Transformers for Earth System Forecasting [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/a2affd71d15e8fedffe18d0219f4837a-Paper-Conference.pdf)
+- PreDiff: Precipitation Nowcasting with Latent Diffusion Models [[paper]](https://arxiv.org/pdf/2307.10422)
 - DGMR: Skilful precipitation nowcasting using deep generative models of radar
-Skilful nowcasting of extreme precipitation with NowcastNet (NowcastNet)
-- AtmoRep: A stochastic model of atmosphere dynamics using large scale representation learning
-- Earthformer: Exploring Space-Time Transformers for Earth System Forecasting
-- PreDiff: Precipitation Nowcasting with Latent Diffusion Models
-- SFNO: Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere
-- Anthropogenic fingerprints in daily precipitation revealed by deep learning
-- Neural General Circulation Models
-- GenCast: Diffusion-based ensemble forecasting for medium-range weather
+- Skilful nowcasting of extreme precipitation with NowcastNet (NowcastNet) [[paper]](https://www.nature.com/articles/s41586-023-06184-4)
+### More
+- Can deep learning beat numerical weather prediction? [[paper]](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2020.0097?download=true)
+- AtmoRep: A stochastic model of atmosphere dynamics using large scale representation learning [[paper]](https://arxiv.org/abs/2308.13280)
+- Anthropogenic fingerprints in daily precipitation revealed by deep learning [[paper]](https://www.nature.com/articles/s41586-023-06474-x)
+- Neural General Circulation Models [[paper]](https://arxiv.org/abs/2311.07222)
+- GenCast: Diffusion-based ensemble forecasting for medium-range weather [[paper]](https://arxiv.org/pdf/2312.15796)
   
 ## 🧊 Meteorology
 - IPCC
