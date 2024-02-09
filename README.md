@@ -84,7 +84,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 ### Nowcast
 - Earthformer: Exploring Space-Time Transformers for Earth System Forecasting [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/a2affd71d15e8fedffe18d0219f4837a-Paper-Conference.pdf)
 - PreDiff: Precipitation Nowcasting with Latent Diffusion Models [[paper]](https://arxiv.org/pdf/2307.10422)
-- DGMR: Skilful precipitation nowcasting using deep generative models of radar
+- DGMR: Skilful precipitation nowcasting using deep generative models of radar [[paper]](https://www.nature.com/articles/s41586-021-03854-z)
 - Skilful nowcasting of extreme precipitation with NowcastNet (NowcastNet) [[paper]](https://www.nature.com/articles/s41586-023-06184-4)
 ### More
 - Can deep learning beat numerical weather prediction? [[paper]](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2020.0097?download=true)
