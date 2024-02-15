@@ -49,7 +49,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | FengWu-4DVar    | Tsinghua           | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.12455) |
 | GenCast    | DeepMind           | 2023.12        | -              | [[paper]](https://arxiv.org/pdf/2312.15796) |
 | FengWu-GHR    | Shanghai AI Lab           | 2024.01        | -              | [[paper]](https://arxiv.org/abs/2402.00059) |
-| XiHe    | NUDT           | 2024.02        | -              | [[paper]](https://arxiv.org/abs/2402.02995) |
+| XiHe    | NUDT           | 2024.02        | -              | [[paper]](https://arxiv.org/abs/2402.02995) [[github]](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting)| 
 
 
 
