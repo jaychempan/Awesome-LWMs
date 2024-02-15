@@ -15,11 +15,13 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [FengWu](#fengwu)
     - [FuXi](#fuxi)
     - [AI-GOMS](#ai-goms)
+    - [XiHe](#xihe)
     - [FNO](#fno)
     - [Nowcast](#nowcast)
     - [More](#more)
   - [🧊 Meteorology](#-meteorology)
 ## 🆕 LWMs News
+- 2024/02/04: XiHe, the first data-driven 1/12° resolution global ocean eddy-resolving forecasting model [[link]](https://arxiv.org/abs/2402.02995);
 - 2024/01/28: FengWu-GHR, the first data-driven global weather forecasting model running at the 0.09∘ horizontal resolution [[link]](https://arxiv.org/abs/2402.00059);
 - 2023/12/27: GenCast, a ML-based generative model for ensemble weather forecasting [[link]](https://arxiv.org/pdf/2312.15796);
 - 2023/12/16: Four-Dimensional Variational (4DVar) assimilation, and develop an AI-based cyclic weather forecasting system, FengWu-4DVar [[link]](https://arxiv.org/abs/2312.12455);
@@ -47,7 +49,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | FengWu-4DVar    | Tsinghua           | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.12455) |
 | GenCast    | DeepMind           | 2023.12        | -              | [[paper]](https://arxiv.org/pdf/2312.15796) |
 | FengWu-GHR    | Shanghai AI Lab           | 2024.01        | -              | [[paper]](https://arxiv.org/abs/2402.00059) |
-
+| XiHe    | NUDT           | 2024.02        | -              | [[paper]](https://arxiv.org/abs/2402.02995) |
 
 
 
@@ -77,6 +79,8 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model (FuXi-Extreme) [[paper]](https://arxiv.org/abs/2310.19822)
 ### AI-GOMS
 - AI-GOMS: Large AI-Driven Global Ocean Modeling System (AI-GOMS) [[paper]](https://arxiv.org/pdf/2308.03152)
+### XiHe
+XiHe: A Data-Driven Model for Global Ocean Eddy-Resolving Forecasting [[paper]](https://arxiv.org/abs/2402.02995)
 ### FNO
 - Fourier Neural Operator with Learned Deformations for PDEs on General Geometries [[paper]](https://arxiv.org/pdf/2207.05209)
 - SFNO: Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere [[paper]](https://arxiv.org/pdf/2306.03838)
