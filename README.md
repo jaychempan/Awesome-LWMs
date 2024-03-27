@@ -27,6 +27,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - 2024/01/28: FengWu-GHR, the first data-driven global weather forecasting model running at the 0.09∘ horizontal resolution [[link]](https://arxiv.org/abs/2402.00059);
 - 2023/12/27: GenCast, a ML-based generative model for ensemble weather forecasting [[link]](https://arxiv.org/pdf/2312.15796);
 - 2023/12/16: Four-Dimensional Variational (4DVar) assimilation, and develop an AI-based cyclic weather forecasting system, FengWu-4DVar [[link]](https://arxiv.org/abs/2312.12455);
+- 2023/12/11: A unified and flexible framework that can equip any type of spatio-temporal models is proposed based on residual diffusion DiffCast [[link]](https://arxiv.org/abs/2312.06734);
 - 2023/11/13: GCMs are physics-based simulators which combine a numerical solver for large-scale dynamics with tuned representations for small-scale processes such as cloud formation. [[link]](https://arxiv.org/abs/2311.07222);
 - 2023/12/13: Fuxi is open source [[link]](https://github.com/tpys/ai-models-fuxi);
 - 2023/11/14: GraphCast published in Science [[link]](https://github.com/tpys/ai-models-fuxi)；
@@ -50,10 +51,12 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | NeuralGCM    | DeepMind           | 2023.11        | -              | [[paper]](https://arxiv.org/abs/2311.07222) |
 | FengWu-4DVar    | Tsinghua           | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.12455) |
 | GenCast    | DeepMind           | 2023.12        | -              | [[paper]](https://arxiv.org/pdf/2312.15796) |
+| DiffCast    | HITsz    | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.06734) | 
 | FengWu-GHR    | Shanghai AI Lab           | 2024.01        | -              | [[paper]](https://arxiv.org/abs/2402.00059) |
 | ExtremeCast   | Shanghai AI Lab           | 2024.02        | -              | [[paper]](https://arxiv.org/pdf/2402.01295) [[github]](https://github.com/black-yt/ExtremeCast)| 
 | XiHe    | NUDT           | 2024.02        | -              | [[paper]](https://arxiv.org/abs/2402.02995) [[github]](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting)| 
 | CasCast    | Shanghai AI Lab           | 2024.02        | -              | [[paper]](https://arxiv.org/pdf/2402.04290) | 
+
 
 
 
@@ -94,6 +97,7 @@ XiHe: A Data-Driven Model for Global Ocean Eddy-Resolving Forecasting [[paper]](
 - PreDiff: Precipitation Nowcasting with Latent Diffusion Models [[paper]](https://arxiv.org/pdf/2307.10422)
 - DGMR: Skilful precipitation nowcasting using deep generative models of radar [[paper]](https://www.nature.com/articles/s41586-021-03854-z)
 - Skilful nowcasting of extreme precipitation with NowcastNet (NowcastNet) [[paper]](https://www.nature.com/articles/s41586-023-06184-4)
+- DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting [[paper]](https://arxiv.org/abs/2312.06734)
 - CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling [[paper]](https://arxiv.org/pdf/2402.04290)
 ### More
 - Can deep learning beat numerical weather prediction? [[paper]](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2020.0097?download=true)
