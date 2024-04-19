@@ -107,7 +107,8 @@ XiHe: A Data-Driven Model for Global Ocean Eddy-Resolving Forecasting [[paper]](
 - Anthropogenic fingerprints in daily precipitation revealed by deep learning [[paper]](https://www.nature.com/articles/s41586-023-06474-x)
 - Neural General Circulation Models [[paper]](https://arxiv.org/abs/2311.07222)
 - GenCast: Diffusion-based ensemble forecasting for medium-range weather [[paper]](https://arxiv.org/pdf/2312.15796)
-  
+- SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489);
+
 ## 🧊 Meteorology
 - IPCC
 - IMO | WMO
