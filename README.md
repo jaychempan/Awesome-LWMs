@@ -21,6 +21,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🧊 Meteorology](#-meteorology)
 ## 🆕 LWMs News
+- 2024/03/29: SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[link]](https://www.science.org/doi/full/10.1126/sciadv.adk4489);
 - 2024/02/06: CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling [[link]](https://arxiv.org/pdf/2402.04290);
 - 2024/02/04: XiHe, the first data-driven 1/12° resolution global ocean eddy-resolving forecasting model [[link]](https://arxiv.org/abs/2402.02995);
 - 2024/02/02: ExtremeCast: Boosting Extreme Value Prediction for Global Weather Forecast [[link]](https://arxiv.org/pdf/2402.01295);
@@ -56,6 +57,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | ExtremeCast   | Shanghai AI Lab           | 2024.02        | -              | [[paper]](https://arxiv.org/pdf/2402.01295) [[github]](https://github.com/black-yt/ExtremeCast)| 
 | XiHe    | NUDT           | 2024.02        | -              | [[paper]](https://arxiv.org/abs/2402.02995) [[github]](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting)| 
 | CasCast    | Shanghai AI Lab           | 2024.02        | -              | [[paper]](https://arxiv.org/pdf/2402.04290) | 
+| SEEDS    | Google           | 2024.03        | Science Advances              | [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489) | 
 
 
 
