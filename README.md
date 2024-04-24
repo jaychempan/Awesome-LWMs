@@ -89,7 +89,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 ### AI-GOMS
 - AI-GOMS: Large AI-Driven Global Ocean Modeling System (AI-GOMS) [[paper]](https://arxiv.org/pdf/2308.03152)
 ### XiHe
-XiHe: A Data-Driven Model for Global Ocean Eddy-Resolving Forecasting [[paper]](https://arxiv.org/abs/2402.02995)
+- XiHe: A Data-Driven Model for Global Ocean Eddy-Resolving Forecasting [[paper]](https://arxiv.org/abs/2402.02995)
 ### FNO
 - Fourier Neural Operator with Learned Deformations for PDEs on General Geometries [[paper]](https://arxiv.org/pdf/2207.05209)
 - SFNO: Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere [[paper]](https://arxiv.org/pdf/2306.03838)
