@@ -19,6 +19,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [FNO](#fno)
     - [Nowcast](#nowcast)
     - [More](#more)
+  - [🚀 Code](#-code)
   - [🧊 Meteorology](#-meteorology)
 ## 🆕 LWMs News
 - 2024/03/29: SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[link]](https://www.science.org/doi/full/10.1126/sciadv.adk4489);
@@ -109,7 +110,14 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - GenCast: Diffusion-based ensemble forecasting for medium-range weather [[paper]](https://arxiv.org/pdf/2312.15796)
 - SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489);
 
+## 🚀 Code
+- [ECMWF AI Models](https://github.com/ecmwf-lab/ai-models)
+- [Skyrim](https://github.com/secondlaw-ai/skyrim)
+- [NVIDIA Earth2Mip](https://github.com/NVIDIA/earth2mip)
+- [AI Models for All](https://github.com/darothen/ai-models-for-all)
+
 ## 🧊 Meteorology
 - IPCC
 - IMO | WMO
 - ECMWF
+
