@@ -22,6 +22,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
   - [🚀 Code](#-code)
   - [🧊 Meteorology](#-meteorology)
 ## 🆕 LWMs News
+- 2024/05/06: CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer [[link]](https://arxiv.org/pdf/2405.03376);
 - 2024/03/29: SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[link]](https://www.science.org/doi/full/10.1126/sciadv.adk4489);
 - 2024/03/13: KARINA: An Efficient Deep Learning Model for Global Weather Forecast [[link]](https://arxiv.org/abs/2403.10555);
 - 2024/02/06: CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling [[link]](https://arxiv.org/pdf/2402.04290);
@@ -52,16 +53,16 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | AI-GOMS       | Tsinghua        | 2023.08          | -              | [[paper]](https://arxiv.org/abs/2308.03152)                  |
 | Fuxi-Extreme    | Fudan           | 2023.10        | -              | [[paper]](https://arxiv.org/abs/2310.19822) |
 | NeuralGCM    | DeepMind           | 2023.11        | -              | [[paper]](https://arxiv.org/abs/2311.07222) |
-| FengWu-4DVar    | Tsinghua           | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.12455) |
+| FengWu-4DVar    | Tsinghua           | 2023.12        | ICML 2024         | [[paper]](https://arxiv.org/abs/2312.12455) |
 | GenCast    | DeepMind           | 2023.12        | -              | [[paper]](https://arxiv.org/pdf/2312.15796) |
 | DiffCast    | HITsz    | 2023.12        | CVPR 2024              | [[paper]](https://arxiv.org/abs/2312.06734) | 
 | FengWu-GHR    | Shanghai AI Lab           | 2024.01        | -              | [[paper]](https://arxiv.org/abs/2402.00059) |
 | ExtremeCast   | Shanghai AI Lab           | 2024.02        | -              | [[paper]](https://arxiv.org/pdf/2402.01295) [[github]](https://github.com/black-yt/ExtremeCast)| 
 | XiHe    | NUDT           | 2024.02        | -              | [[paper]](https://arxiv.org/abs/2402.02995) [[github]](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting)| 
-| CasCast    | Shanghai AI Lab           | 2024.02        | -              | [[paper]](https://arxiv.org/pdf/2402.04290) | 
+| CasCast    | Shanghai AI Lab           | 2024.02        | ICML 2024              | [[paper]](https://arxiv.org/pdf/2402.04290) | 
 | KARINA    | KARINA           | 2024.03        | -             | [[paper]](https://arxiv.org/abs/2403.10555) | 
 | SEEDS    | Google           | 2024.03        | Science Advances              | [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489) | 
-
+| CRA5     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/pdf/2405.03376) [[github]](https://github.com/taohan10200/CRA5)| 
 
 
 
@@ -86,6 +87,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead (FengWu) [[paper]](https://arxiv.org/pdf/2304.02948)
 - FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation [[paper]](https://arxiv.org/pdf/2312.12455)
 - FengWu-GHR: Learning the Kilometer-scale Medium-range Global Weather Forecasting [[paper]](https://arxiv.org/pdf/2402.00059)
+- ExtremeCast: Boosting Extreme Value Prediction for Global Weather Forecast [[paper]](https://arxiv.org/pdf/2402.01295)
 ### FuXi
 - FuXi: A cascade machine learning forecasting system for 15-day global weather forecast (FuXi) [[paper]](https://arxiv.org/pdf/2306.12873)
 - FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model (FuXi-Extreme) [[paper]](https://arxiv.org/abs/2310.19822)
@@ -96,7 +98,6 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 ### FNO
 - Fourier Neural Operator with Learned Deformations for PDEs on General Geometries [[paper]](https://arxiv.org/pdf/2207.05209)
 - SFNO: Spherical Fourier Neural Operators: Learning Stable Dynamics on the Sphere [[paper]](https://arxiv.org/pdf/2306.03838)
-
 ### Nowcast
 - Earthformer: Exploring Space-Time Transformers for Earth System Forecasting [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/a2affd71d15e8fedffe18d0219f4837a-Paper-Conference.pdf)
 - PreDiff: Precipitation Nowcasting with Latent Diffusion Models [[paper]](https://arxiv.org/pdf/2307.10422)
@@ -112,6 +113,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - GenCast: Diffusion-based ensemble forecasting for medium-range weather [[paper]](https://arxiv.org/pdf/2312.15796)
 - KARINA: An Efficient Deep Learning Model for Global Weather Forecast [[paper]](https://arxiv.org/abs/2403.10555)
 - SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489);
+- CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer [[paper]](https://arxiv.org/pdf/2405.03376);
 
 ## 🚀 Code
 - [ECMWF AI Models](https://github.com/ecmwf-lab/ai-models)
