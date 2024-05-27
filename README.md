@@ -22,6 +22,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
   - [🚀 Code](#-code)
   - [🧊 Meteorology](#-meteorology)
 ## 🆕 LWMs News
+- 2024/05/20: Aurora: A Foundation Model of the Atmosphere [[link]](https://arxiv.org/abs/2405.13063);
 - 2024/05/06: CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer [[link]](https://arxiv.org/pdf/2405.03376);
 - 2024/03/29: SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[link]](https://www.science.org/doi/full/10.1126/sciadv.adk4489);
 - 2024/03/13: KARINA: An Efficient Deep Learning Model for Global Weather Forecast [[link]](https://arxiv.org/abs/2403.10555);
@@ -63,6 +64,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | KARINA    | KARINA           | 2024.03        | -             | [[paper]](https://arxiv.org/abs/2403.10555) | 
 | SEEDS    | Google           | 2024.03        | Science Advances              | [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489) | 
 | CRA5     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/pdf/2405.03376) [[github]](https://github.com/taohan10200/CRA5)| 
+| Aurora     | Microsoft  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13063)| 
 
 
 
@@ -114,7 +116,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - KARINA: An Efficient Deep Learning Model for Global Weather Forecast [[paper]](https://arxiv.org/abs/2403.10555)
 - SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489);
 - CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer [[paper]](https://arxiv.org/pdf/2405.03376);
-
+- Aurora: A Foundation Model of the Atmosphere [[paper]](https://arxiv.org/abs/2405.13063);
 ## 🚀 Code
 - [ECMWF AI Models](https://github.com/ecmwf-lab/ai-models)
 - [Skyrim](https://github.com/secondlaw-ai/skyrim)
