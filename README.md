@@ -20,7 +20,6 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [Nowcast](#nowcast)
     - [More](#more)
   - [🚀 Code](#-code)
-  - [🧊 Meteorology](#-meteorology)
 ## 🆕 LWMs News
 - 2024/05/20: Aurora: A Foundation Model of the Atmosphere [[link]](https://arxiv.org/abs/2405.13063);
 - 2024/05/06: CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer [[link]](https://arxiv.org/pdf/2405.03376);
@@ -122,9 +121,3 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - [Skyrim](https://github.com/secondlaw-ai/skyrim)
 - [NVIDIA Earth2Mip](https://github.com/NVIDIA/earth2mip)
 - [AI Models for All](https://github.com/darothen/ai-models-for-all)
-
-## 🧊 Meteorology
-- IPCC
-- IMO | WMO
-- ECMWF
-
