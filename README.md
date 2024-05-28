@@ -88,7 +88,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - WeatherBench 2: A benchmark for the next generation of data-driven global weather models [[paper]](https://arxiv.org/pdf/2308.15560)
 ### MetNet
 - MetNet: A Neural Weather Model for Precipitation Forecasting (MetNet) [[paper]](https://arxiv.org/pdf/2003.12140)
-- Deep learning for twelve hour precipitation forecasts (MetNet-2) [[paper]](https://www.nature.com/articles/s41467-022-32483-x%3C/p%3E)
+- Deep learning for twelve hour precipitation forecasts (MetNet-2) [[paper]](https://www.nature.com/articles/s41467-022-32483-x.pdf)
 - Deep Learning for Day Forecasts from Sparse Observations (MetNet-3) [[paper]](https://arxiv.org/pdf/2306.06079)
 ### FourCastNet
 - FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (FourCastNet) [[paper]](https://arxiv.org/pdf/2202.11214)
