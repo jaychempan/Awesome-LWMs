@@ -95,7 +95,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 ### Pangu-Weather
 - Accurate medium-range global weather forecasting with 3D neural networks (Pangu-Weather) [[pdf]](https://www.nature.com/articles/s41586-023-06185-3.pdf)
 ### GraphCast
-- Learning skillful medium-range global weather forecasting (GraphCast) [[paper]](https://www.science.org/doi/full/10.1126/science.adi2336)
+- Learning skillful medium-range global weather forecasting (GraphCast) [[pdf]](https://arxiv.org/pdf/2212.12794)
 ### ClimaX
 - ClimaX: A foundation model for weather and climate (ClimaX) [[paper]](https://arxiv.org/pdf/2301.10343)
 ### FengWu
