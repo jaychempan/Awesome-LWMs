@@ -84,16 +84,16 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 ## 📖 Papers
 
 ### WeatherBench
-- WeatherBench: A benchmark dataset for data-driven weather forecasting [[paper]](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020MS002203)
-- WeatherBench 2: A benchmark for the next generation of data-driven global weather models [[paper]](https://arxiv.org/pdf/2308.15560)
+- WeatherBench: A benchmark dataset for data-driven weather forecasting [[pdf]](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020MS002203)
+- WeatherBench 2: A benchmark for the next generation of data-driven global weather models [[pdf]](https://arxiv.org/pdf/2308.15560)
 ### MetNet
-- MetNet: A Neural Weather Model for Precipitation Forecasting (MetNet) [[paper]](https://arxiv.org/pdf/2003.12140)
-- Deep learning for twelve hour precipitation forecasts (MetNet-2) [[paper]](https://www.nature.com/articles/s41467-022-32483-x.pdf)
-- Deep Learning for Day Forecasts from Sparse Observations (MetNet-3) [[paper]](https://arxiv.org/pdf/2306.06079)
+- MetNet: A Neural Weather Model for Precipitation Forecasting (MetNet) [[pdf]](https://arxiv.org/pdf/2003.12140)
+- Deep learning for twelve hour precipitation forecasts (MetNet-2) [[pdf]](https://www.nature.com/articles/s41467-022-32483-x.pdf)
+- Deep Learning for Day Forecasts from Sparse Observations (MetNet-3) [[pdf]](https://arxiv.org/pdf/2306.06079)
 ### FourCastNet
-- FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (FourCastNet) [[paper]](https://arxiv.org/pdf/2202.11214)
+- FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (FourCastNet) [[pdf]](https://arxiv.org/pdf/2202.11214)
 ### Pangu-Weather
-- Accurate medium-range global weather forecasting with 3D neural networks (Pangu-Weather) [[paper]](https://www.nature.com/articles/s41586-023-06185-3)
+- Accurate medium-range global weather forecasting with 3D neural networks (Pangu-Weather) [[pdf]](https://www.nature.com/articles/s41586-023-06185-3.pdf)
 ### GraphCast
 - Learning skillful medium-range global weather forecasting (GraphCast) [[paper]](https://www.science.org/doi/full/10.1126/science.adi2336)
 ### ClimaX
