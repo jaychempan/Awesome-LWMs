@@ -73,7 +73,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | SEEDS    | Google           | 2024.03        | Science Advances              | [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489) | 
 | Fuxi-DA          | Fudan           | 2024.04          | -              | [[paper]](https://arxiv.org/abs/2404.08522)  |
 | ClimODE  | Aalto University | 2024.04        | ICLR 2024 (Oral)           | [[paper]](https://arxiv.org/abs/2404.10024) [[github]](https://github.com/Aalto-QuML/ClimODE)  |
-| CRA5     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/pdf/2405.03376) [[github]](https://github.com/OpenEarthLab/CasCast)| 
+| CRA5     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/pdf/2405.03376) [[github]](https://github.com/taohan10200/CRA5)| 
 | FuXi-ENS     | Fudan  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.05925) | 
 | Aurora     | Microsoft  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13063)| 
 | WeatherGFT     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13796) | 
