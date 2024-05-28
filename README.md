@@ -41,9 +41,9 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - 2023/12/11: A unified and flexible framework that can equip any type of spatio-temporal models is proposed based on residual diffusion DiffCast [[link]](https://arxiv.org/abs/2312.06734);
 - 2023/11/13: GCMs are physics-based simulators which combine a numerical solver for large-scale dynamics with tuned representations for small-scale processes such as cloud formation. [[link]](https://arxiv.org/abs/2311.07222);
 - 2023/12/13: Fuxi is open source [[link]](https://github.com/tpys/ai-models-fuxi);
-- 2023/11/14: GraphCast published in Science [[link]](https://github.com/tpys/ai-models-fuxi)；
-- 2023/09/14: Pangu-Weather published in Nature [[link]](https://www.nature.com/articles/s41586-023-06185-3)；
-- 2023/08/25: ClimaX published in ICML 2023 [[link]](https://openreview.net/forum?id=TowCaiz7Ui)；
+- 2023/11/14: GraphCast published in Science [[link]](https://www.science.org/doi/abs/10.1126/science.adi2336);
+- 2023/09/14: Pangu-Weather published in Nature [[link]](https://www.nature.com/articles/s41586-023-06185-3);
+- 2023/08/25: ClimaX published in ICML 2023 [[link]](https://openreview.net/forum?id=TowCaiz7Ui);
 ## 🗂️ LWMs Lists
 | LWM name     | From            | Date(1st) | Publication | Links                                     |
 | ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ |
