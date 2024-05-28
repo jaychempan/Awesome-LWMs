@@ -132,7 +132,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 ### More
 - Can deep learning beat numerical weather prediction? [[paper]](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2020.0097?download=true)
 - AtmoRep: A stochastic model of atmosphere dynamics using large scale representation learning [[paper]](https://arxiv.org/pdf/2308.13280)
-- Anthropogenic fingerprints in daily precipitation revealed by deep learning [[paper]](https://www.nature.com/articles/s41586-023-06474-x)
+- Anthropogenic fingerprints in daily precipitation revealed by deep learning [[paper]](https://www.nature.com/articles/s41586-023-06474-x.pdf)
 - Neural General Circulation Models [[paper]](https://arxiv.org/pdf/2311.07222)
 - GenCast: Diffusion-based ensemble forecasting for medium-range weather [[paper]](https://arxiv.org/pdf/2312.15796)
 - KARINA: An Efficient Deep Learning Model for Global Weather Forecast [[paper]](https://arxiv.org/pdf/2403.10555)
