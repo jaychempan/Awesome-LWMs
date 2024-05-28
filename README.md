@@ -18,11 +18,17 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [XiHe](#xihe)
     - [FNO](#fno)
     - [Nowcast](#nowcast)
+    - [Physics-AI](#physics-ai)
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
+- 2024/05/24: ORCA: A Global Ocean Emulator for Multi-year to Decadal Predictions [[link]](https://arxiv.org/abs/2405.15412);
+- 2024/05/22: Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [[link]](https://arxiv.org/abs/2405.13796);
 - 2024/05/20: Aurora: A Foundation Model of the Atmosphere [[link]](https://arxiv.org/abs/2405.13063);
+- 2024/05/09: FuXi-ENS: A machine learning model for medium-range ensemble weather forecasting [[link]](https://arxiv.org/abs/2405.05925);
 - 2024/05/06: CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer [[link]](https://arxiv.org/pdf/2405.03376);
+- 2024/04/15: ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs [[link]](https://arxiv.org/abs/2404.10024);
+- 2024/04/12: Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations [[link]](https://arxiv.org/abs/2404.08522);
 - 2024/03/29: SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[link]](https://www.science.org/doi/full/10.1126/sciadv.adk4489);
 - 2024/03/13: KARINA: An Efficient Deep Learning Model for Global Weather Forecast [[link]](https://arxiv.org/abs/2403.10555);
 - 2024/02/06: CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling [[link]](https://arxiv.org/pdf/2402.04290);
@@ -31,6 +37,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - 2024/01/28: FengWu-GHR, the first data-driven global weather forecasting model running at the 0.09∘ horizontal resolution [[link]](https://arxiv.org/abs/2402.00059);
 - 2023/12/27: GenCast, a ML-based generative model for ensemble weather forecasting [[link]](https://arxiv.org/pdf/2312.15796);
 - 2023/12/16: Four-Dimensional Variational (4DVar) assimilation, and develop an AI-based cyclic weather forecasting system, FengWu-4DVar [[link]](https://arxiv.org/abs/2312.12455);
+- 2023/12/15: FuXi-S2S: An accurate machine learning model for global subseasonal forecasts [[link]](https://arxiv.org/abs/2312.09926);
 - 2023/12/11: A unified and flexible framework that can equip any type of spatio-temporal models is proposed based on residual diffusion DiffCast [[link]](https://arxiv.org/abs/2312.06734);
 - 2023/11/13: GCMs are physics-based simulators which combine a numerical solver for large-scale dynamics with tuned representations for small-scale processes such as cloud formation. [[link]](https://arxiv.org/abs/2311.07222);
 - 2023/12/13: Fuxi is open source [[link]](https://github.com/tpys/ai-models-fuxi);
@@ -54,16 +61,23 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | Fuxi-Extreme    | Fudan           | 2023.10        | -              | [[paper]](https://arxiv.org/abs/2310.19822) |
 | NeuralGCM    | DeepMind           | 2023.11        | -              | [[paper]](https://arxiv.org/abs/2311.07222) |
 | FengWu-4DVar    | Tsinghua           | 2023.12        | ICML 2024         | [[paper]](https://arxiv.org/abs/2312.12455) |
+| FengWu-Adas     | Shanghai AI Lab  | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.12462) | 
+| FuXi-S2S     | Fudan  | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.09926) | 
 | GenCast    | DeepMind           | 2023.12        | -              | [[paper]](https://arxiv.org/pdf/2312.15796) |
 | DiffCast    | HITsz    | 2023.12        | CVPR 2024              | [[paper]](https://arxiv.org/abs/2312.06734) | 
 | FengWu-GHR    | Shanghai AI Lab           | 2024.01        | -              | [[paper]](https://arxiv.org/abs/2402.00059) |
 | ExtremeCast   | Shanghai AI Lab           | 2024.02        | -              | [[paper]](https://arxiv.org/pdf/2402.01295) [[github]](https://github.com/black-yt/ExtremeCast)| 
 | XiHe    | NUDT           | 2024.02        | -              | [[paper]](https://arxiv.org/abs/2402.02995) [[github]](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting)| 
-| CasCast    | Shanghai AI Lab           | 2024.02        | ICML 2024              | [[paper]](https://arxiv.org/pdf/2402.04290) | 
+| CasCast    | Shanghai AI Lab           | 2024.02        | ICML 2024              | [[paper]](https://arxiv.org/pdf/2402.04290) [[github]](https://github.com/OpenEarthLab/ORCA)| 
 | KARINA    | KARINA           | 2024.03        | -             | [[paper]](https://arxiv.org/abs/2403.10555) | 
 | SEEDS    | Google           | 2024.03        | Science Advances              | [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489) | 
-| CRA5     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/pdf/2405.03376) [[github]](https://github.com/taohan10200/CRA5)| 
+| Fuxi-DA          | Fudan           | 2024.04          | -              | [[paper]](https://arxiv.org/abs/2404.08522)  |
+| ClimODE  | Aalto University | 2024.04        | ICLR 2024 (Oral)           | [[paper]](https://arxiv.org/abs/2404.10024) [[github]](https://github.com/Aalto-QuML/ClimODE)  |
+| CRA5     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/pdf/2405.03376) [[github]](https://github.com/OpenEarthLab/CasCast)| 
+| FuXi-ENS     | Fudan  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.05925) | 
 | Aurora     | Microsoft  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13063)| 
+| WeatherGFT     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13796) | 
+| ORCA     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA)| 
 
 
 
@@ -87,11 +101,15 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 ### FengWu
 - FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead (FengWu) [[paper]](https://arxiv.org/pdf/2304.02948)
 - FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation [[paper]](https://arxiv.org/pdf/2312.12455)
+- Towards an end-to-end artificial intelligence driven global weather forecasting system [[paper]](https://arxiv.org/abs/2312.12462)
 - FengWu-GHR: Learning the Kilometer-scale Medium-range Global Weather Forecasting [[paper]](https://arxiv.org/pdf/2402.00059)
 - ExtremeCast: Boosting Extreme Value Prediction for Global Weather Forecast [[paper]](https://arxiv.org/pdf/2402.01295)
 ### FuXi
 - FuXi: A cascade machine learning forecasting system for 15-day global weather forecast (FuXi) [[paper]](https://arxiv.org/pdf/2306.12873)
 - FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model (FuXi-Extreme) [[paper]](https://arxiv.org/abs/2310.19822)
+- FuXi-S2S: An accurate machine learning model for global subseasonal forecasts [[paper]](https://arxiv.org/abs/2312.09926)
+- Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations [[paper]](https://arxiv.org/abs/2404.08522)
+- FuXi-ENS: A machine learning model for medium-range ensemble weather forecasting [[paper]](https://arxiv.org/abs/2405.05925)
 ### AI-GOMS
 - AI-GOMS: Large AI-Driven Global Ocean Modeling System (AI-GOMS) [[paper]](https://arxiv.org/pdf/2308.03152)
 ### XiHe
@@ -106,6 +124,11 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - Skilful nowcasting of extreme precipitation with NowcastNet (NowcastNet) [[paper]](https://www.nature.com/articles/s41586-023-06184-4)
 - DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting [[paper]](https://arxiv.org/abs/2312.06734)
 - CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling [[paper]](https://arxiv.org/pdf/2402.04290)
+- Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [[paper]](https://arxiv.org/abs/2405.13796)
+### Physics-AI
+- Neural General Circulation Models for Weather and Climate [[paper]](https://arxiv.org/abs/2311.07222)
+- ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs [[paper]](https://arxiv.org/abs/2404.10024)
+- Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [[paper]](https://arxiv.org/abs/2405.13796)
 ### More
 - Can deep learning beat numerical weather prediction? [[paper]](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2020.0097?download=true)
 - AtmoRep: A stochastic model of atmosphere dynamics using large scale representation learning [[paper]](https://arxiv.org/abs/2308.13280)
@@ -113,9 +136,10 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - Neural General Circulation Models [[paper]](https://arxiv.org/abs/2311.07222)
 - GenCast: Diffusion-based ensemble forecasting for medium-range weather [[paper]](https://arxiv.org/pdf/2312.15796)
 - KARINA: An Efficient Deep Learning Model for Global Weather Forecast [[paper]](https://arxiv.org/abs/2403.10555)
-- SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489);
-- CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer [[paper]](https://arxiv.org/pdf/2405.03376);
-- Aurora: A Foundation Model of the Atmosphere [[paper]](https://arxiv.org/abs/2405.13063);
+- SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489)
+- CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer [[paper]](https://arxiv.org/pdf/2405.03376)
+- Aurora: A Foundation Model of the Atmosphere [[paper]](https://arxiv.org/abs/2405.13063)
+- ORCA: A Global Ocean Emulator for Multi-year to Decadal Predictions [[paper]](https://arxiv.org/abs/2405.15412)
 ## 🚀 Code
 - [ECMWF AI Models](https://github.com/ecmwf-lab/ai-models)
 - [Skyrim](https://github.com/secondlaw-ai/skyrim)
