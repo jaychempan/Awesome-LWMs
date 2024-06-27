@@ -83,8 +83,9 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 ## 🗃️ Dataset Lists
 | Dataset name     | From            | Date(1st) | Publication | Links                                     |
 | ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ |
-| WeatherBench     | Google        | 2020.02        | Journal of Advances in Modeling Earth Systems | [[paper]](https://arxiv.org/abs/2002.00469) [[github]](https://github.com/pangeo-data/WeatherBench) |
+| WeatherBench     | Google        | 2020.02        | Journal of Advances in Modeling Earth Systems 2020 | [[paper]](https://arxiv.org/abs/2002.00469) [[github]](https://github.com/pangeo-data/WeatherBench) |
 | ERA5             | ECMWF         | 2020.05        | -              | [[paper]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3803?_hsenc=p2ANqtz-_Rot9IrSLOikF_COUhGRbbp9PzsUsmjSNJP6g-f4x5EegqaFipfLPkl9hMvTpyZVGACYUneXK1UVgfCc-V_Lx98XGPtw) [[link]](https://cds.climate.copernicus.eu/#!/search?text=ERA5&type=dataset&keywords=((%20%22Product%20type:%20Reanalysis%22%20)%20AND%20(%20%22Variable%20domain:%20Atmosphere%20(surface)%22%20)%20AND%20(%20%22Spatial%20coverage:%20Global%22%20)%20AND%20(%20%22Temporal%20coverage:%20Past%22%20)%20AND%20(%20%22Provider:%20Copernicus%20C3S%22%20))) |
+| SEVIR            | MIT           | 2020.06        | NeurIPS 2020   | [[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/fa78a16157fed00d7a80515818432169-Paper.pdf) [[github]](https://github.com/MIT-AI-Accelerator/neurips-2020-sevir) [[link]](https://sevir.mit.edu/) |
 | WeatherBench2    | Google        | 2023.08        | -              | [[paper]](https://arxiv.org/abs/2308.15560) [[github]](https://github.com/google-research/weatherbench2) |
 | WEATHER-5K       | Shanghai AI Lab        | 2024.06        | -              | [[paper]](https://arxiv.org/abs/2406.14399) [[github]](https://github.com/taohan10200/WEATHER-5K) |
 
@@ -140,6 +141,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 ### Dataset
 - WeatherBench: A benchmark dataset for data-driven weather forecasting [[pdf]](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020MS002203)
 - The ERA5 global reanalysis [[pdf]](https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/qj.3803)
+- SEVIR : A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2020/file/fa78a16157fed00d7a80515818432169-Paper.pdf)
 - WeatherBench 2: A benchmark for the next generation of data-driven global weather models [[pdf]](https://arxiv.org/pdf/2308.15560)
 - WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark [[pdf]](https://arxiv.org/pdf/2406.14399)
 ### More
