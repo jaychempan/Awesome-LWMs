@@ -22,6 +22,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
+- 2024/06/20: WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark [[link]](https://arxiv.org/abs/2406.14399);
 - 2024/05/24: ORCA: A Global Ocean Emulator for Multi-year to Decadal Predictions [[link]](https://arxiv.org/abs/2405.15412);
 - 2024/05/22: Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [[link]](https://arxiv.org/abs/2405.13796);
 - 2024/05/20: Aurora: A Foundation Model of the Atmosphere [[link]](https://arxiv.org/abs/2405.13063);
@@ -79,6 +80,13 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | WeatherGFT     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13796) [[github]](https://github.com/black-yt/WeatherGFT)| 
 | ORCA     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA)| 
 
+## 🗃️ Dataset Lists
+| Dataset name     | From            | Date(1st) | Publication | Links                                     |
+| ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ |
+| WeatherBench     | Google        | 2020.02        | Journal of Advances in Modeling Earth Systems | [[paper]](https://arxiv.org/abs/2002.00469) [[github]](https://github.com/pangeo-data/WeatherBench) |
+| ERA5             | ECMWF         | 2020.05        | -              | [[paper]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3803?_hsenc=p2ANqtz-_Rot9IrSLOikF_COUhGRbbp9PzsUsmjSNJP6g-f4x5EegqaFipfLPkl9hMvTpyZVGACYUneXK1UVgfCc-V_Lx98XGPtw) [[link]](https://cds.climate.copernicus.eu/#!/search?text=ERA5&type=dataset&keywords=((%20%22Product%20type:%20Reanalysis%22%20)%20AND%20(%20%22Variable%20domain:%20Atmosphere%20(surface)%22%20)%20AND%20(%20%22Spatial%20coverage:%20Global%22%20)%20AND%20(%20%22Temporal%20coverage:%20Past%22%20)%20AND%20(%20%22Provider:%20Copernicus%20C3S%22%20))) |
+| WeatherBench2    | Google        | 2023.08        | -              | [[paper]](https://arxiv.org/abs/2308.15560) [[github]](https://github.com/google-research/weatherbench2) |
+| WEATHER-5K       | Shanghai AI Lab        | 2024.06        | -              | [[paper]](https://arxiv.org/abs/2406.14399) [[github]](https://github.com/taohan10200/WEATHER-5K) |
 
 
 ## 📖 Papers
@@ -129,6 +137,11 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - Neural General Circulation Models for Weather and Climate [[pdf]](https://arxiv.org/pdf/2311.07222)
 - ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs [[pdf]](https://arxiv.org/pdf/2404.10024)
 - Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [[pdf]](https://arxiv.org/pdf/2405.13796)
+### Dataset
+- WeatherBench: A benchmark dataset for data-driven weather forecasting [[pdf]](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020MS002203)
+- The ERA5 global reanalysis [[pdf]](https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/qj.3803)
+- WeatherBench 2: A benchmark for the next generation of data-driven global weather models [[pdf]](https://arxiv.org/pdf/2308.15560)
+- WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark [[pdf]](https://arxiv.org/pdf/2406.14399)
 ### More
 - Can deep learning beat numerical weather prediction? [[pdf]](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2020.0097?download=true)
 - AtmoRep: A stochastic model of atmosphere dynamics using large scale representation learning [[pdf]](https://arxiv.org/pdf/2308.13280)
