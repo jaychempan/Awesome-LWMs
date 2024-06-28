@@ -5,6 +5,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
   - [🧭 Guideline](#-guideline)
   - [🆕 LWMs News](#-lwms-news)
   - [🗂️ LWMs Lists](#️-lwms-lists)
+  - [🗃️ Dataset Lists](#️-dataset-lists)
   - [📖 Papers](#-papers)
     - [WeatherBench](#weatherbench)
     - [MetNet](#metnet)
