@@ -20,7 +20,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [FNO](#fno)
     - [Nowcast](#nowcast)
     - [Physics-AI](#physics-ai)
-    - [Dataset](#dataset)
+    - [Datasets](#datasets)
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
