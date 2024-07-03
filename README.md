@@ -31,7 +31,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - 2024/05/09: FuXi-ENS: A machine learning model for medium-range ensemble weather forecasting [[link]](https://arxiv.org/abs/2405.05925);
 - 2024/05/06: CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer [[link]](https://arxiv.org/abs/2405.03376);
 - 2024/04/15: ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs [[link]](https://arxiv.org/abs/2404.10024);
-- 2024/04/12: Fuxi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations [[link]](https://arxiv.org/abs/2404.08522);
+- 2024/04/12: FuXi-DA: A Generalized Deep Learning Data Assimilation Framework for Assimilating Satellite Observations [[link]](https://arxiv.org/abs/2404.08522);
 - 2024/03/29: SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[link]](https://www.science.org/doi/full/10.1126/sciadv.adk4489);
 - 2024/03/13: KARINA: An Efficient Deep Learning Model for Global Weather Forecast [[link]](https://arxiv.org/abs/2403.10555);
 - 2024/02/06: CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling [[link]](https://arxiv.org/abs/2402.04290);
@@ -43,7 +43,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - 2023/12/15: FuXi-S2S: An accurate machine learning model for global subseasonal forecasts [[link]](https://arxiv.org/abs/2312.09926);
 - 2023/12/11: A unified and flexible framework that can equip any type of spatio-temporal models is proposed based on residual diffusion DiffCast [[link]](https://arxiv.org/abs/2312.06734);
 - 2023/11/13: GCMs are physics-based simulators which combine a numerical solver for large-scale dynamics with tuned representations for small-scale processes such as cloud formation. [[link]](https://arxiv.org/abs/2311.07222);
-- 2023/12/13: Fuxi is open source [[link]](https://github.com/tpys/ai-models-fuxi);
+- 2023/12/13: FuXi is open source [[link]](https://github.com/tpys/ai-models-fuxi);
 - 2023/11/14: GraphCast published in Science [[link]](https://www.science.org/doi/abs/10.1126/science.adi2336);
 - 2023/09/14: Pangu-Weather published in Nature [[link]](https://www.nature.com/articles/s41586-023-06185-3);
 - 2023/08/25: ClimaX published in ICML 2023 [[link]](https://openreview.net/forum?id=TowCaiz7Ui);
@@ -51,17 +51,17 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | LWM name     | From            | Date(1st) | Publication | Links                                     |
 | ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ |
 | MetNet   | Google        | 2020.03        | -              | [[paper]](https://arxiv.org/abs/2003.12140) [[github]](https://github.com/openclimatefix/metnet) |
-| FourCastNet   | NVIDIA        | 2022.02          | -              | [[paper]](https://arxiv.org/abs/2202.11214) [[github]](https://github.com/NVlabs/FourCastNet) |
+| FourCastNet   | NVIDIA        | 2022.02          | PASC 23              | [[paper]](https://arxiv.org/abs/2202.11214) [[github]](https://github.com/NVlabs/FourCastNet) |
 | MetNet-2   | Google        | 2022.09        | Nature Communications | [[paper]](https://www.nature.com/articles/s41467-022-32483-x) [[github]](https://github.com/openclimatefix/metnet)  |
 | Pangu-Weather | Huaiwei         | 2022.11          | Nature         | [[paper]](https://www.nature.com/articles/s41586-023-06185-3) [[github]](https://github.com/198808xc/Pangu-Weather) |
 | GraphCast     | DeepMind        | 2022.12          | Science        | [[paper]](https://www.science.org/doi/10.1126/science.adi2336) [[github]](https://github.com/google-deepmind/graphcast) |
 | ClimaX        | Microsoft       | 2023.01          | ICML 2023      | [[paper]](https://arxiv.org/abs/2301.10343) [[github]](https://github.com/microsoft/ClimaX) |
 | Fengwu        | Shanghai AI Lab | 2023.04          | -              | [[paper]](https://arxiv.org/abs/2304.02948) [[github]](https://github.com/OpenEarthLab/FengWu) |
 | MetNet-3  | Google        | 2023.06        | - | [[paper]](https://arxiv.org/abs/2306.06079)  | 
-| Fuxi          | Fudan           | 2023.06          | -              | [[paper]](https://arxiv.org/abs/2306.12873) [[github]](https://github.com/tpys/ai-models-fuxi) |
+| FuXi          | Fudan           | 2023.06          | npj 2023              | [[paper]](https://arxiv.org/abs/2306.12873) [[github]](https://github.com/tpys/ai-models-fuxi) |
 | NowcastNet   | Tsinghua        | 2023.07         | Nature      | [[paper]](https://www.nature.com/articles/s41586-023-06184-4) |
 | AI-GOMS       | Tsinghua        | 2023.08          | -              | [[paper]](https://arxiv.org/abs/2308.03152)                  |
-| Fuxi-Extreme    | Fudan           | 2023.10        | -              | [[paper]](https://arxiv.org/abs/2310.19822) |
+| FuXi-Extreme    | Fudan           | 2023.10        | -              | [[paper]](https://arxiv.org/abs/2310.19822) |
 | NeuralGCM    | DeepMind           | 2023.11        | -              | [[paper]](https://arxiv.org/abs/2311.07222) |
 | FengWu-4DVar    | Tsinghua           | 2023.12        | ICML 2024         | [[paper]](https://arxiv.org/abs/2312.12455) |
 | FengWu-Adas     | Shanghai AI Lab  | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.12462) | 
@@ -74,9 +74,8 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | CasCast    | Shanghai AI Lab           | 2024.02        | ICML 2024              | [[paper]](https://arxiv.org/abs/2402.04290) [[github]](https://github.com/OpenEarthLab/CasCast)| 
 | KARINA    | KIST           | 2024.03        | -             | [[paper]](https://arxiv.org/abs/2403.10555) | 
 | SEEDS    | Google           | 2024.03        | Science Advances              | [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489) | 
-| Fuxi-DA          | Fudan           | 2024.04          | -              | [[paper]](https://arxiv.org/abs/2404.08522)  |
+| FuXi-DA          | Fudan           | 2024.04          | -              | [[paper]](https://arxiv.org/abs/2404.08522)  |
 | ClimODE  | Aalto University | 2024.04        | ICLR 2024 (Oral)           | [[paper]](https://arxiv.org/abs/2404.10024) [[github]](https://github.com/Aalto-QuML/ClimODE)  |
-| CRA5     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.03376) [[github]](https://github.com/taohan10200/CRA5)| 
 | FuXi-ENS     | Fudan  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.05925) | 
 | Aurora     | Microsoft  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13063)| 
 | WeatherGFT     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13796) [[github]](https://github.com/black-yt/WeatherGFT)| 
@@ -89,6 +88,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | ERA5             | ECMWF         | 2020.05        | -              | [[paper]](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3803?_hsenc=p2ANqtz-_Rot9IrSLOikF_COUhGRbbp9PzsUsmjSNJP6g-f4x5EegqaFipfLPkl9hMvTpyZVGACYUneXK1UVgfCc-V_Lx98XGPtw) [[link]](https://cds.climate.copernicus.eu/#!/search?text=ERA5&type=dataset&keywords=((%20%22Product%20type:%20Reanalysis%22%20)%20AND%20(%20%22Variable%20domain:%20Atmosphere%20(surface)%22%20)%20AND%20(%20%22Spatial%20coverage:%20Global%22%20)%20AND%20(%20%22Temporal%20coverage:%20Past%22%20)%20AND%20(%20%22Provider:%20Copernicus%20C3S%22%20))) |
 | SEVIR            | MIT           | 2020.06        | NeurIPS 2020   | [[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/fa78a16157fed00d7a80515818432169-Paper.pdf) [[github]](https://github.com/MIT-AI-Accelerator/neurips-2020-sevir) [[link]](https://sevir.mit.edu/) |
 | WeatherBench2    | Google        | 2023.08        | -              | [[paper]](https://arxiv.org/abs/2308.15560) [[github]](https://github.com/google-research/weatherbench2) |
+| CRA5             | Shanghai AI Lab        | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.03376) [[github]](https://github.com/taohan10200/CRA5)| 
 | WEATHER-5K       | Shanghai AI Lab        | 2024.06        | -              | [[paper]](https://arxiv.org/abs/2406.14399) [[github]](https://github.com/taohan10200/WEATHER-5K) |
 
 
@@ -140,11 +140,12 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - Neural General Circulation Models for Weather and Climate [[pdf]](https://arxiv.org/pdf/2311.07222)
 - ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs [[pdf]](https://arxiv.org/pdf/2404.10024)
 - Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [[pdf]](https://arxiv.org/pdf/2405.13796)
-### Dataset
+### Datasets
 - WeatherBench: A benchmark dataset for data-driven weather forecasting [[pdf]](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020MS002203)
 - The ERA5 global reanalysis [[pdf]](https://rmets.onlinelibrary.wiley.com/doi/epdf/10.1002/qj.3803)
 - SEVIR : A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2020/file/fa78a16157fed00d7a80515818432169-Paper.pdf)
 - WeatherBench 2: A benchmark for the next generation of data-driven global weather models [[pdf]](https://arxiv.org/pdf/2308.15560)
+- CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer [[pdf]](https://arxiv.org/pdf/2405.03376)
 - WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark [[pdf]](https://arxiv.org/pdf/2406.14399)
 ### More
 - Can deep learning beat numerical weather prediction? [[pdf]](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2020.0097?download=true)
