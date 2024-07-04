@@ -154,7 +154,6 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - GenCast: Diffusion-based ensemble forecasting for medium-range weather [[pdf]](https://arxiv.org/pdf/2312.15796)
 - KARINA: An Efficient Deep Learning Model for Global Weather Forecast [[pdf]](https://arxiv.org/pdf/2403.10555)
 - SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[pdf]](https://www.science.org/doi/pdf/10.1126/sciadv.adk4489)
-- CRA5: Extreme Compression of ERA5 for Portable Global Climate and Weather Research via an Efficient Variational Transformer [[pdf]](https://arxiv.org/pdf/2405.03376)
 - Aurora: A Foundation Model of the Atmosphere [[pdf]](https://arxiv.org/pdf/2405.13063)
 - ORCA: A Global Ocean Emulator for Multi-year to Decadal Predictions [[pdf]](https://arxiv.org/pdf/2405.15412)
 ## 🚀 Code
