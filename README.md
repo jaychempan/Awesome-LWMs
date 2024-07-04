@@ -157,8 +157,8 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - Aurora: A Foundation Model of the Atmosphere [[pdf]](https://arxiv.org/pdf/2405.13063)
 - ORCA: A Global Ocean Emulator for Multi-year to Decadal Predictions [[pdf]](https://arxiv.org/pdf/2405.15412)
 ## 🚀 Code
-- [ECMWF AI Models](https://github.com/ecmwf-lab/ai-models)
-- [Skyrim](https://github.com/secondlaw-ai/skyrim)
-- [NVIDIA Earth2Mip](https://github.com/NVIDIA/earth2mip)
-- [AI Models for All](https://github.com/darothen/ai-models-for-all)
-- [OpenEarthLab](https://github.com/OpenEarthLab)
+- [ECMWF AI Models](https://github.com/ecmwf-lab/ai-models): AI-based weather forecasting models.
+- [Skyrim](https://github.com/secondlaw-ai/skyrim): AI weather models united.
+- [NVIDIA Earth2Mip](https://github.com/NVIDIA/earth2mip): Earth-2 Model Intercomparison Project (MIP) is a python framework that enables climate researchers and scientists to inter-compare AI models for weather and climate.
+- [AI Models for All](https://github.com/darothen/ai-models-for-all): Run AI NWP forecasts hassle-free, serverless in the cloud!
+- [OpenEarthLab](https://github.com/OpenEarthLab): OpenEarthLab, aiming at developing cutting-edge Spatiaotemporal Generation algorithms and promoting the development of Earth Science.
