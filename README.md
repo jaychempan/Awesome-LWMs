@@ -24,6 +24,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
+- 2024/07/30: FuXi-S2S published in Nature Communications [[link]](https://www.nature.com/articles/s41467-024-50714-1));
 - 2024/06/20: WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark [[link]](https://arxiv.org/abs/2406.14399);
 - 2024/05/24: ORCA: A Global Ocean Emulator for Multi-year to Decadal Predictions [[link]](https://arxiv.org/abs/2405.15412);
 - 2024/05/22: Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [[link]](https://arxiv.org/abs/2405.13796);
@@ -37,6 +38,8 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - 2024/02/06: CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling [[link]](https://arxiv.org/abs/2402.04290);
 - 2024/02/04: XiHe, the first data-driven 1/12° resolution global ocean eddy-resolving forecasting model [[link]](https://arxiv.org/abs/2402.02995);
 - 2024/02/02: ExtremeCast: Boosting Extreme Value Prediction for Global Weather Forecast [[link]](https://arxiv.org/abs/2402.01295);
+<details>
+  <summary>Expand to see more LWMs news</summary>
 - 2024/01/28: FengWu-GHR, the first data-driven global weather forecasting model running at the 0.09∘ horizontal resolution [[link]](https://arxiv.org/abs/2402.00059);
 - 2023/12/27: GenCast, a ML-based generative model for ensemble weather forecasting [[link]](https://arxiv.org/abs/2312.15796);
 - 2023/12/16: Four-Dimensional Variational (4DVar) assimilation, and develop an AI-based cyclic weather forecasting system, FengWu-4DVar [[link]](https://arxiv.org/abs/2312.12455);
@@ -47,6 +50,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - 2023/11/14: GraphCast published in Science [[link]](https://www.science.org/doi/abs/10.1126/science.adi2336);
 - 2023/09/14: Pangu-Weather published in Nature [[link]](https://www.nature.com/articles/s41586-023-06185-3);
 - 2023/08/25: ClimaX published in ICML 2023 [[link]](https://openreview.net/forum?id=TowCaiz7Ui);
+</details>
 ## 🗂️ LWMs Lists
 | LWM name     | From            | Date(1st) | Publication | Links                                     |
 | ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ |
@@ -65,7 +69,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | NeuralGCM    | DeepMind           | 2023.11        | -              | [[paper]](https://arxiv.org/abs/2311.07222) |
 | FengWu-4DVar    | Tsinghua           | 2023.12        | ICML 2024         | [[paper]](https://arxiv.org/abs/2312.12455) |
 | FengWu-Adas     | Shanghai AI Lab  | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.12462) | 
-| FuXi-S2S     | Fudan  | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.09926) | 
+| FuXi-S2S     | Fudan  | 2023.12        | Nature Communications              | [[arXiv paper]](https://arxiv.org/abs/2312.09926) [[NC paper]](https://www.nature.com/articles/s41467-024-50714-1)| 
 | GenCast    | DeepMind           | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.15796) |
 | DiffCast    | HITsz    | 2023.12        | CVPR 2024              | [[paper]](https://arxiv.org/abs/2312.06734) | 
 | FengWu-GHR    | Shanghai AI Lab           | 2024.01        | -              | [[paper]](https://arxiv.org/abs/2402.00059) |
