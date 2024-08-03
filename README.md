@@ -40,6 +40,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - 2024/02/02: ExtremeCast: Boosting Extreme Value Prediction for Global Weather Forecast [[link]](https://arxiv.org/abs/2402.01295);
 <details>
   <summary>Expand to see more LWMs news</summary>
+  
 - 2024/01/28: FengWu-GHR, the first data-driven global weather forecasting model running at the 0.09∘ horizontal resolution [[link]](https://arxiv.org/abs/2402.00059);
 - 2023/12/27: GenCast, a ML-based generative model for ensemble weather forecasting [[link]](https://arxiv.org/abs/2312.15796);
 - 2023/12/16: Four-Dimensional Variational (4DVar) assimilation, and develop an AI-based cyclic weather forecasting system, FengWu-4DVar [[link]](https://arxiv.org/abs/2312.12455);
@@ -50,6 +51,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - 2023/11/14: GraphCast published in Science [[link]](https://www.science.org/doi/abs/10.1126/science.adi2336);
 - 2023/09/14: Pangu-Weather published in Nature [[link]](https://www.nature.com/articles/s41586-023-06185-3);
 - 2023/08/25: ClimaX published in ICML 2023 [[link]](https://openreview.net/forum?id=TowCaiz7Ui);
+  
 </details>
 
 ## 🗂️ LWMs Lists
