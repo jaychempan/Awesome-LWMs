@@ -51,6 +51,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - 2023/09/14: Pangu-Weather published in Nature [[link]](https://www.nature.com/articles/s41586-023-06185-3);
 - 2023/08/25: ClimaX published in ICML 2023 [[link]](https://openreview.net/forum?id=TowCaiz7Ui);
 </details>
+
 ## 🗂️ LWMs Lists
 | LWM name     | From            | Date(1st) | Publication | Links                                     |
 | ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ |
