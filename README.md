@@ -25,7 +25,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
 - 2024/08/15: MetMamba, a DLWP model built on a state-of-the-art state-space model, Mamba, offers notable performance gains [[link]](https://www.arxiv.org/pdf/2408.06400);
-- 2024/07/30: FuXi-S2S published in Nature Communications [[link]](https://www.nature.com/articles/s41467-024-50714-1));
+- 2024/07/30: FuXi-S2S published in Nature Communications [[link]](https://www.nature.com/articles/s41467-024-50714-1);
 - 2024/06/20: WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark [[link]](https://arxiv.org/abs/2406.14399);
 - 2024/05/24: ORCA: A Global Ocean Emulator for Multi-year to Decadal Predictions [[link]](https://arxiv.org/abs/2405.15412);
 - 2024/05/22: Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [[link]](https://arxiv.org/abs/2405.13796);
