@@ -24,6 +24,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
+- 2024/08/15: MetMamba, a DLWP model built on a state-of-the-art state-space model, Mamba, offers notable performance gains [[link]](https://www.arxiv.org/pdf/2408.06400);
 - 2024/07/30: FuXi-S2S published in Nature Communications [[link]](https://www.nature.com/articles/s41467-024-50714-1));
 - 2024/06/20: WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark [[link]](https://arxiv.org/abs/2406.14399);
 - 2024/05/24: ORCA: A Global Ocean Emulator for Multi-year to Decadal Predictions [[link]](https://arxiv.org/abs/2405.15412);
@@ -87,6 +88,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | Aurora     | Microsoft  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13063)| 
 | WeatherGFT     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13796) [[github]](https://github.com/black-yt/WeatherGFT)| 
 | ORCA     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA)| 
+| MetMamba     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA)| 
 
 ## 🗃️ Dataset Lists
 | Dataset name     | From            | Date(1st) | Publication | Links                                     |
@@ -96,7 +98,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | SEVIR            | MIT           | 2020.06        | NeurIPS 2020   | [[paper]](https://proceedings.neurips.cc/paper_files/paper/2020/file/fa78a16157fed00d7a80515818432169-Paper.pdf) [[github]](https://github.com/MIT-AI-Accelerator/neurips-2020-sevir) [[link]](https://sevir.mit.edu/) |
 | WeatherBench2    | Google        | 2023.08        | -              | [[paper]](https://arxiv.org/abs/2308.15560) [[github]](https://github.com/google-research/weatherbench2) |
 | CRA5             | Shanghai AI Lab        | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.03376) [[github]](https://github.com/taohan10200/CRA5)| 
-| WEATHER-5K       | Shanghai AI Lab        | 2024.06        | -              | [[paper]](https://arxiv.org/abs/2406.14399) [[github]](https://github.com/taohan10200/WEATHER-5K) |
+| WEATHER-5K       | Beijing PRESKY Technology        | 2024.08        | -              | [[paper]](https://www.arxiv.org/pdf/2408.06400)  |
 
 
 ## 📖 Papers
