@@ -88,7 +88,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | Aurora     | Microsoft  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13063)| 
 | WeatherGFT     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13796) [[github]](https://github.com/black-yt/WeatherGFT)| 
 | ORCA     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA)| 
-| MetMamba     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA)| 
+| MetMamba     | Beijing PRESKY Technology  | 2024.08        | -              | [[paper]](https://www.arxiv.org/pdf/2408.06400) | 
 
 ## 🗃️ Dataset Lists
 | Dataset name     | From            | Date(1st) | Publication | Links                                     |
