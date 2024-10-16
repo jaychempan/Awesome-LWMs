@@ -86,7 +86,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | ClimODE  | Aalto University | 2024.04        | ICLR 2024 (Oral)           | [[paper]](https://arxiv.org/abs/2404.10024) [[github]](https://github.com/Aalto-QuML/ClimODE)  |
 | FuXi-ENS     | Fudan  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.05925) | 
 | Aurora     | Microsoft  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13063)| 
-| WeatherGFT     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13796) [[github]](https://github.com/black-yt/WeatherGFT)| 
+| WeatherGFT     | Shanghai AI Lab  | 2024.05        | NeurIPS 2024         | [[paper]](https://arxiv.org/abs/2405.13796) [[github]](https://github.com/black-yt/WeatherGFT)| 
 | ORCA     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA)| 
 | MetMamba     | Beijing PRESKY Technology  | 2024.08        | -              | [[paper]](https://www.arxiv.org/pdf/2408.06400) | 
 
