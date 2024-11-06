@@ -86,7 +86,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | KARINA        | KIST            | 2024.03          | -              | [[paper]](https://arxiv.org/abs/2403.10555)                  | -             | -       |
 | SEEDS         | Google          | 2024.03          | Science Advances | [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489) | - | - |
 | FuXi-DA       | Fudan           | 2024.04          | -              | [[paper]](https://arxiv.org/abs/2404.08522)                  | -             | -       |
-| ClimODE       | Aalto University | 2024.04         | ICLR 2024 (Oral) | [[paper]](https://arxiv.org/abs/2404.10024) [[github]](https://github.com/Aalto-QuML/ClimODE) | - | - |
+| ClimODE       | Aalto University | 2024.04         | ICLR 2024 (Oral) | [[paper]](https://arxiv.org/abs/2404.10024) [[github]](https://github.com/Aalto-QuML/ClimODE) | [[MIT]](https://github.com/Aalto-QuML/ClimODE/blob/main/LICENSE) | Not specified or non applicable |
 | FuXi-ENS      | Fudan           | 2024.05          | -              | [[paper]](https://arxiv.org/abs/2405.05925)                  | -             | -       |
 | Aurora        | Microsoft       | 2024.05          | -              | [[paper]](https://arxiv.org/abs/2405.13063)                  | [[MIT]](https://github.com/microsoft/aurora/blob/main/LICENSE.txt)             | [[CC-BY-NC-SA 4.0]](https://huggingface.co/microsoft/aurora/blob/main/README.md)       |
 | WeatherGFT    | Shanghai AI Lab | 2024.05          | NeurIPS 2024   | [[paper]](https://arxiv.org/abs/2405.13796) [[github]](https://github.com/black-yt/WeatherGFT) | - | - |
