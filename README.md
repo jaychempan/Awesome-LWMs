@@ -92,6 +92,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | WeatherGFT    | Shanghai AI Lab | 2024.05          | NeurIPS 2024   | [[paper]](https://arxiv.org/abs/2405.13796) [[github]](https://github.com/black-yt/WeatherGFT) | - | - |
 | ORCA          | Shanghai AI Lab | 2024.05          | -              | [[paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA) | - | - |
 | MetMamba      | Beijing PRESKY Technology | 2024.08 | - | [[paper]](https://www.arxiv.org/pdf/2408.06400) | - | - |
+| Prithvi-WxC   | IBM / Nasa       | 2024.09         |                | [[paper]](https://arxiv.org/abs/2409.13598) [[Hugging Face]](https://huggingface.co/Prithvi-WxC) | [[CDLA Permissive 2.0]](https://spdx.org/licenses/CDLA-Permissive-2.0)             | [[CDLA Permissive 2.0]](https://spdx.org/licenses/CDLA-Permissive-2.0)       |
 
 
 ## 🗃️ Dataset Lists
@@ -103,6 +104,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | WeatherBench2    | Google        | 2023.08        | -              | [[paper]](https://arxiv.org/abs/2308.15560) [[github]](https://github.com/google-research/weatherbench2) |
 | CRA5             | Shanghai AI Lab        | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.03376) [[github]](https://github.com/taohan10200/CRA5)| 
 | WEATHER-5K       | Beijing PRESKY Technology        | 2024.08        | -              | [[paper]](https://www.arxiv.org/pdf/2408.06400)  |
+
 
 
 ## 📖 Papers
