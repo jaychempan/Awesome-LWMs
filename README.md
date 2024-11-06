@@ -60,7 +60,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 ## 🗂️ LWMs Lists
 | LWM name     | From            | Date(1st) | Publication | Links                                     | Model Licence                    |Weights Licence       |
 | ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ | ------------- | ------- |
-| MetNet        | Google          | 2020.03          | -              | [[paper]](https://arxiv.org/abs/2003.12140) [[github]](https://github.com/openclimatefix/metnet) | -             | -       |
+| MetNet        | Google          | 2020.03          | -              | [[paper]](https://arxiv.org/abs/2003.12140) [[github]](https://github.com/openclimatefix/metnet) | [[MIT]](https://github.com/openclimatefix/metnet/blob/main/LICENSE)             | N/A       |
 | FourCastNet   | NVIDIA          | 2022.02          | PASC 23        | [[paper]](https://arxiv.org/abs/2202.11214) [[github]](https://github.com/NVlabs/FourCastNet)   | -             | -       |
 | MetNet-2      | Google          | 2022.09          | Nature Communications | [[paper]](https://www.nature.com/articles/s41467-022-32483-x) [[github]](https://github.com/openclimatefix/metnet) | -             | -       |
 | Pangu-Weather | Huaiwei         | 2022.11          | Nature         | [[paper]](https://www.nature.com/articles/s41586-023-06185-3) [[github]](https://github.com/198808xc/Pangu-Weather) | -             | -       |
