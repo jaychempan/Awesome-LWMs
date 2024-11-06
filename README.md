@@ -71,6 +71,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | FuXi          | Fudan           | 2023.06          | npj 2023       | [[paper]](https://arxiv.org/abs/2306.12873) [[github]](https://github.com/tpys/ai-models-fuxi)  | -             | -       |
 | NowcastNet    | Tsinghua        | 2023.07          | Nature         | [[paper]](https://www.nature.com/articles/s41586-023-06184-4) | -             | -       |
 | AI-GOMS       | Tsinghua        | 2023.08          | -              | [[paper]](https://arxiv.org/abs/2308.03152)                  | -             | -       |
+| Prithvi-100M | IBM / Nasa       | 2023.08          |                | [[paper]](https://arxiv.org/abs/2310.18660) [[Hugging Face]](https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M/tree/main) | [[Apache 2.0]](https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md)             | [[Apache 2.0]](https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md)       |
 | FuXi-Extreme  | Fudan           | 2023.10          | -              | [[paper]](https://arxiv.org/abs/2310.19822)                  | -             | -       |
 | NeuralGCM     | DeepMind        | 2023.11          | -              | [[paper]](https://arxiv.org/abs/2311.07222)                  | -             | -       |
 | FengWu-4DVar  | Tsinghua        | 2023.12          | ICML 2024      | [[paper]](https://arxiv.org/abs/2312.12455)                  | -             | -       |
