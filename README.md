@@ -82,7 +82,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | FengWu-GHR    | Shanghai AI Lab | 2024.01          | -              | [[paper]](https://arxiv.org/abs/2402.00059)                  | -             | -       |
 | ExtremeCast   | Shanghai AI Lab | 2024.02          | -              | [[paper]](https://arxiv.org/abs/2402.01295) [[github]](https://github.com/black-yt/ExtremeCast) | Not Specified | Not Specified |
 | XiHe          | NUDT            | 2024.02          | -              | [[paper]](https://arxiv.org/abs/2402.02995) [[github]](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting) | Not Specified | Not Specified |
-| CasCast       | Shanghai AI Lab | 2024.02          | ICML 2024      | [[paper]](https://arxiv.org/abs/2402.04290) [[github]](https://github.com/OpenEarthLab/CasCast) | - | - |
+| CasCast       | Shanghai AI Lab | 2024.02          | ICML 2024      | [[paper]](https://arxiv.org/abs/2402.04290) [[github]](https://github.com/OpenEarthLab/CasCast) | Not Specified | Not Specified |
 | KARINA        | KIST            | 2024.03          | -              | [[paper]](https://arxiv.org/abs/2403.10555)                  | -             | -       |
 | SEEDS         | Google          | 2024.03          | Science Advances | [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489) | - | - |
 | FuXi-DA       | Fudan           | 2024.04          | -              | [[paper]](https://arxiv.org/abs/2404.08522)                  | -             | -       |
