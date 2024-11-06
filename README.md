@@ -80,7 +80,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | GenCast       | DeepMind        | 2023.12          | -              | [[paper]](https://arxiv.org/abs/2312.15796)                  | -             | -       |
 | DiffCast      | HITsz           | 2023.12          | CVPR 2024      | [[paper]](https://arxiv.org/abs/2312.06734)                  | -             | -       |
 | FengWu-GHR    | Shanghai AI Lab | 2024.01          | -              | [[paper]](https://arxiv.org/abs/2402.00059)                  | -             | -       |
-| ExtremeCast   | Shanghai AI Lab | 2024.02          | -              | [[paper]](https://arxiv.org/abs/2402.01295) [[github]](https://github.com/black-yt/ExtremeCast) | - | - |
+| ExtremeCast   | Shanghai AI Lab | 2024.02          | -              | [[paper]](https://arxiv.org/abs/2402.01295) [[github]](https://github.com/black-yt/ExtremeCast) | Not Specified | Not Specified |
 | XiHe          | NUDT            | 2024.02          | -              | [[paper]](https://arxiv.org/abs/2402.02995) [[github]](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting) | - | - |
 | CasCast       | Shanghai AI Lab | 2024.02          | ICML 2024      | [[paper]](https://arxiv.org/abs/2402.04290) [[github]](https://github.com/OpenEarthLab/CasCast) | - | - |
 | KARINA        | KIST            | 2024.03          | -              | [[paper]](https://arxiv.org/abs/2403.10555)                  | -             | -       |
