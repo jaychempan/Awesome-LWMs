@@ -24,6 +24,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
+- 2024/09/20: IBM and Nasa Prithvi-WxC Foundation model [[link]](https://arxiv.org/abs/2409.13598)
 - 2024/08/15: MetMamba, a DLWP model built on a state-of-the-art state-space model, Mamba, offers notable performance gains [[link]](https://www.arxiv.org/pdf/2408.06400);
 - 2024/07/30: FuXi-S2S published in Nature Communications [[link]](https://www.nature.com/articles/s41467-024-50714-1);
 - 2024/06/20: WEATHER-5K: A Large-scale Global Station Weather Dataset Towards Comprehensive Time-series Forecasting Benchmark [[link]](https://arxiv.org/abs/2406.14399);
@@ -50,6 +51,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - 2023/11/13: GCMs are physics-based simulators which combine a numerical solver for large-scale dynamics with tuned representations for small-scale processes such as cloud formation. [[link]](https://arxiv.org/abs/2311.07222);
 - 2023/12/13: FuXi is open source [[link]](https://github.com/tpys/ai-models-fuxi);
 - 2023/11/14: GraphCast published in Science [[link]](https://www.science.org/doi/abs/10.1126/science.adi2336);
+- 2023/10/25: IBM and Nasa Prithvi-100M Model [[link]](https://arxiv.org/abs/2310.18660);
 - 2023/09/14: Pangu-Weather published in Nature [[link]](https://www.nature.com/articles/s41586-023-06185-3);
 - 2023/08/25: ClimaX published in ICML 2023 [[link]](https://openreview.net/forum?id=TowCaiz7Ui);
   
