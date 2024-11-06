@@ -56,39 +56,40 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 </details>
 
 ## 🗂️ LWMs Lists
-| LWM name     | From            | Date(1st) | Publication | Links                                     |
-| ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ |
-| MetNet   | Google        | 2020.03        | -              | [[paper]](https://arxiv.org/abs/2003.12140) [[github]](https://github.com/openclimatefix/metnet) |
-| FourCastNet   | NVIDIA        | 2022.02          | PASC 23              | [[paper]](https://arxiv.org/abs/2202.11214) [[github]](https://github.com/NVlabs/FourCastNet) |
-| MetNet-2   | Google        | 2022.09        | Nature Communications | [[paper]](https://www.nature.com/articles/s41467-022-32483-x) [[github]](https://github.com/openclimatefix/metnet)  |
-| Pangu-Weather | Huaiwei         | 2022.11          | Nature         | [[paper]](https://www.nature.com/articles/s41586-023-06185-3) [[github]](https://github.com/198808xc/Pangu-Weather) |
-| GraphCast     | DeepMind        | 2022.12          | Science        | [[paper]](https://www.science.org/doi/10.1126/science.adi2336) [[github]](https://github.com/google-deepmind/graphcast) |
-| ClimaX        | Microsoft       | 2023.01          | ICML 2023      | [[paper]](https://arxiv.org/abs/2301.10343) [[github]](https://github.com/microsoft/ClimaX) |
-| Fengwu        | Shanghai AI Lab | 2023.04          | -              | [[paper]](https://arxiv.org/abs/2304.02948) [[github]](https://github.com/OpenEarthLab/FengWu) |
-| MetNet-3  | Google        | 2023.06        | - | [[paper]](https://arxiv.org/abs/2306.06079)  | 
-| FuXi          | Fudan           | 2023.06          | npj 2023              | [[paper]](https://arxiv.org/abs/2306.12873) [[github]](https://github.com/tpys/ai-models-fuxi) |
-| NowcastNet   | Tsinghua        | 2023.07         | Nature      | [[paper]](https://www.nature.com/articles/s41586-023-06184-4) |
-| AI-GOMS       | Tsinghua        | 2023.08          | -              | [[paper]](https://arxiv.org/abs/2308.03152)                  |
-| FuXi-Extreme    | Fudan           | 2023.10        | -              | [[paper]](https://arxiv.org/abs/2310.19822) |
-| NeuralGCM    | DeepMind           | 2023.11        | -              | [[paper]](https://arxiv.org/abs/2311.07222) |
-| FengWu-4DVar    | Tsinghua           | 2023.12        | ICML 2024         | [[paper]](https://arxiv.org/abs/2312.12455) |
-| FengWu-Adas     | Shanghai AI Lab  | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.12462) | 
-| FuXi-S2S     | Fudan  | 2023.12        | Nature Communications              | [[arXiv paper]](https://arxiv.org/abs/2312.09926) [[NC paper]](https://www.nature.com/articles/s41467-024-50714-1)| 
-| GenCast    | DeepMind           | 2023.12        | -              | [[paper]](https://arxiv.org/abs/2312.15796) |
-| DiffCast    | HITsz    | 2023.12        | CVPR 2024              | [[paper]](https://arxiv.org/abs/2312.06734) | 
-| FengWu-GHR    | Shanghai AI Lab           | 2024.01        | -              | [[paper]](https://arxiv.org/abs/2402.00059) |
-| ExtremeCast   | Shanghai AI Lab           | 2024.02        | -              | [[paper]](https://arxiv.org/abs/2402.01295) [[github]](https://github.com/black-yt/ExtremeCast)| 
-| XiHe    | NUDT           | 2024.02        | -              | [[paper]](https://arxiv.org/abs/2402.02995) [[github]](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting)| 
-| CasCast    | Shanghai AI Lab           | 2024.02        | ICML 2024              | [[paper]](https://arxiv.org/abs/2402.04290) [[github]](https://github.com/OpenEarthLab/CasCast)| 
-| KARINA    | KIST           | 2024.03        | -             | [[paper]](https://arxiv.org/abs/2403.10555) | 
-| SEEDS    | Google           | 2024.03        | Science Advances              | [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489) | 
-| FuXi-DA          | Fudan           | 2024.04          | -              | [[paper]](https://arxiv.org/abs/2404.08522)  |
-| ClimODE  | Aalto University | 2024.04        | ICLR 2024 (Oral)           | [[paper]](https://arxiv.org/abs/2404.10024) [[github]](https://github.com/Aalto-QuML/ClimODE)  |
-| FuXi-ENS     | Fudan  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.05925) | 
-| Aurora     | Microsoft  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.13063) [[github]](https://github.com/microsoft/aurora) |
-| WeatherGFT     | Shanghai AI Lab  | 2024.05        | NeurIPS 2024         | [[paper]](https://arxiv.org/abs/2405.13796) [[github]](https://github.com/black-yt/WeatherGFT)| 
-| ORCA     | Shanghai AI Lab  | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA)| 
-| MetMamba     | Beijing PRESKY Technology  | 2024.08        | -              | [[paper]](https://www.arxiv.org/pdf/2408.06400) | 
+| LWM name     | From            | Date(1st) | Publication | Links                                     | Model Licence                    |Weights Licence       |
+| ------------- | --------------- | ---------------- | -------------- | ------------------------------------------------------------ | ------------- | ------- |
+| MetNet        | Google          | 2020.03          | -              | [[paper]](https://arxiv.org/abs/2003.12140) [[github]](https://github.com/openclimatefix/metnet) | -             | -       |
+| FourCastNet   | NVIDIA          | 2022.02          | PASC 23        | [[paper]](https://arxiv.org/abs/2202.11214) [[github]](https://github.com/NVlabs/FourCastNet)   | -             | -       |
+| MetNet-2      | Google          | 2022.09          | Nature Communications | [[paper]](https://www.nature.com/articles/s41467-022-32483-x) [[github]](https://github.com/openclimatefix/metnet) | -             | -       |
+| Pangu-Weather | Huaiwei         | 2022.11          | Nature         | [[paper]](https://www.nature.com/articles/s41586-023-06185-3) [[github]](https://github.com/198808xc/Pangu-Weather) | -             | -       |
+| GraphCast     | DeepMind        | 2022.12          | Science        | [[paper]](https://www.science.org/doi/10.1126/science.adi2336) [[github]](https://github.com/google-deepmind/graphcast) | -             | -       |
+| ClimaX        | Microsoft       | 2023.01          | ICML 2023      | [[paper]](https://arxiv.org/abs/2301.10343) [[github]](https://github.com/microsoft/ClimaX)     | -             | -       |
+| Fengwu        | Shanghai AI Lab | 2023.04          | -              | [[paper]](https://arxiv.org/abs/2304.02948) [[github]](https://github.com/OpenEarthLab/FengWu)  | -             | -       |
+| MetNet-3      | Google          | 2023.06          | -              | [[paper]](https://arxiv.org/abs/2306.06079)                  | -             | -       |
+| FuXi          | Fudan           | 2023.06          | npj 2023       | [[paper]](https://arxiv.org/abs/2306.12873) [[github]](https://github.com/tpys/ai-models-fuxi)  | -             | -       |
+| NowcastNet    | Tsinghua        | 2023.07          | Nature         | [[paper]](https://www.nature.com/articles/s41586-023-06184-4) | -             | -       |
+| AI-GOMS       | Tsinghua        | 2023.08          | -              | [[paper]](https://arxiv.org/abs/2308.03152)                  | -             | -       |
+| FuXi-Extreme  | Fudan           | 2023.10          | -              | [[paper]](https://arxiv.org/abs/2310.19822)                  | -             | -       |
+| NeuralGCM     | DeepMind        | 2023.11          | -              | [[paper]](https://arxiv.org/abs/2311.07222)                  | -             | -       |
+| FengWu-4DVar  | Tsinghua        | 2023.12          | ICML 2024      | [[paper]](https://arxiv.org/abs/2312.12455)                  | -             | -       |
+| FengWu-Adas   | Shanghai AI Lab | 2023.12          | -              | [[paper]](https://arxiv.org/abs/2312.12462)                  | -             | -       |
+| FuXi-S2S      | Fudan           | 2023.12          | Nature Communications | [[arXiv paper]](https://arxiv.org/abs/2312.09926) [[NC paper]](https://www.nature.com/articles/s41467-024-50714-1) | - | - |
+| GenCast       | DeepMind        | 2023.12          | -              | [[paper]](https://arxiv.org/abs/2312.15796)                  | -             | -       |
+| DiffCast      | HITsz           | 2023.12          | CVPR 2024      | [[paper]](https://arxiv.org/abs/2312.06734)                  | -             | -       |
+| FengWu-GHR    | Shanghai AI Lab | 2024.01          | -              | [[paper]](https://arxiv.org/abs/2402.00059)                  | -             | -       |
+| ExtremeCast   | Shanghai AI Lab | 2024.02          | -              | [[paper]](https://arxiv.org/abs/2402.01295) [[github]](https://github.com/black-yt/ExtremeCast) | - | - |
+| XiHe          | NUDT            | 2024.02          | -              | [[paper]](https://arxiv.org/abs/2402.02995) [[github]](https://github.com/Ocean-Intelligent-Forecasting/XiHe-GlobalOceanForecasting) | - | - |
+| CasCast       | Shanghai AI Lab | 2024.02          | ICML 2024      | [[paper]](https://arxiv.org/abs/2402.04290) [[github]](https://github.com/OpenEarthLab/CasCast) | - | - |
+| KARINA        | KIST            | 2024.03          | -              | [[paper]](https://arxiv.org/abs/2403.10555)                  | -             | -       |
+| SEEDS         | Google          | 2024.03          | Science Advances | [[paper]](https://www.science.org/doi/full/10.1126/sciadv.adk4489) | - | - |
+| FuXi-DA       | Fudan           | 2024.04          | -              | [[paper]](https://arxiv.org/abs/2404.08522)                  | -             | -       |
+| ClimODE       | Aalto University | 2024.04         | ICLR 2024 (Oral) | [[paper]](https://arxiv.org/abs/2404.10024) [[github]](https://github.com/Aalto-QuML/ClimODE) | - | - |
+| FuXi-ENS      | Fudan           | 2024.05          | -              | [[paper]](https://arxiv.org/abs/2405.05925)                  | -             | -       |
+| Aurora        | Microsoft       | 2024.05          | -              | [[paper]](https://arxiv.org/abs/2405.13063)                  | -             | -       |
+| WeatherGFT    | Shanghai AI Lab | 2024.05          | NeurIPS 2024   | [[paper]](https://arxiv.org/abs/2405.13796) [[github]](https://github.com/black-yt/WeatherGFT) | - | - |
+| ORCA          | Shanghai AI Lab | 2024.05          | -              | [[paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA) | - | - |
+| MetMamba      | Beijing PRESKY Technology | 2024.08 | - | [[paper]](https://www.arxiv.org/pdf/2408.06400) | - | - |
+
 
 ## 🗃️ Dataset Lists
 | Dataset name     | From            | Date(1st) | Publication | Links                                     |
