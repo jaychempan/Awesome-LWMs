@@ -177,3 +177,8 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - [NVIDIA Earth2Mip](https://github.com/NVIDIA/earth2mip): Earth-2 Model Intercomparison Project (MIP) is a python framework that enables climate researchers and scientists to inter-compare AI models for weather and climate.
 - [AI Models for All](https://github.com/darothen/ai-models-for-all): Run AI NWP forecasts hassle-free, serverless in the cloud!
 - [OpenEarthLab](https://github.com/OpenEarthLab): OpenEarthLab, aiming at developing cutting-edge Spatiaotemporal Generation algorithms and promoting the development of Earth Science.
+
+## 🎉 Contributors
+<a href="https://github.com/jaychempan/Awesome-LWMs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jaychempan/Awesome-LWMs" />
+</a>
