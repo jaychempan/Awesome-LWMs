@@ -178,6 +178,16 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - [AI Models for All](https://github.com/darothen/ai-models-for-all): Run AI NWP forecasts hassle-free, serverless in the cloud!
 - [OpenEarthLab](https://github.com/OpenEarthLab): OpenEarthLab, aiming at developing cutting-edge Spatiaotemporal Generation algorithms and promoting the development of Earth Science.
 
+# Star History
+
+<a>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.com/#jaychempan/Awesome-LWMs&Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.com/#jaychempan/Awesome-LWMs&Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=opendatalab/MinerU&type=Date" />
+ </picture>
+</a>
+
 ## 🎉 Contributors
 <a href="https://github.com/jaychempan/Awesome-LWMs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=jaychempan/Awesome-LWMs" />
