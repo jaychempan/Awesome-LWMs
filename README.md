@@ -184,7 +184,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.com/#jaychempan/Awesome-LWMs&Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://star-history.com/#jaychempan/Awesome-LWMs&Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=opendatalab/MinerU&type=Date" />
+   <img alt="Star History Chart" src="https://star-history.com/#jaychempan/Awesome-LWMs&Date" />
  </picture>
 </a>
 
