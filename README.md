@@ -188,9 +188,6 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
  </picture>
 </a>
 
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=jaychempan/Awesome-LWMs&type=Date)](https://star-history.com/#jaychempan/Awesome-LWMs&Date)
 
 ## 🎉 Contributors
 <a href="https://github.com/jaychempan/Awesome-LWMs/graphs/contributors">
