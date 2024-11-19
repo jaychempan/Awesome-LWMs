@@ -180,10 +180,15 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 
 ## 🌟 Star History
 
-## Star History
+<a>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jaychempan/Awesome-LWMs&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jaychempan/Awesome-LWMs&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jaychempan/Awesome-LWMs&type=Date" />
+ </picture>
+</a>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jaychempan/Awesome-LWMs&type=Date)](https://star-history.com/#jaychempan/Awesome-LWMs&Date)
-
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwXzhDTGx2YmJTbXZ4SkNpdDJXbjAxSG1mMkViNnBpdDBtTllaeQ==#jaychempan/Awesome-LWMs&Date" frameBorder="0"></iframe>
 
 ## 🎉 Contributors
 <a href="https://github.com/jaychempan/Awesome-LWMs/graphs/contributors">
