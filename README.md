@@ -24,6 +24,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
+- 2024/12/04: Google DeepMind releases GenCast, an ensemble AI forecast model [[link]](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/)
 - 2024/09/20: IBM and Nasa Prithvi-WxC Foundation model [[link]](https://arxiv.org/abs/2409.13598)
 - 2024/08/15: MetMamba, a DLWP model built on a state-of-the-art state-space model, Mamba, offers notable performance gains [[link]](https://www.arxiv.org/pdf/2408.06400);
 - 2024/07/30: FuXi-S2S published in Nature Communications [[link]](https://www.nature.com/articles/s41467-024-50714-1);
@@ -177,3 +178,19 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - [NVIDIA Earth2Mip](https://github.com/NVIDIA/earth2mip): Earth-2 Model Intercomparison Project (MIP) is a python framework that enables climate researchers and scientists to inter-compare AI models for weather and climate.
 - [AI Models for All](https://github.com/darothen/ai-models-for-all): Run AI NWP forecasts hassle-free, serverless in the cloud!
 - [OpenEarthLab](https://github.com/OpenEarthLab): OpenEarthLab, aiming at developing cutting-edge Spatiaotemporal Generation algorithms and promoting the development of Earth Science.
+
+## 🌟 Star History
+
+<a>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jaychempan/Awesome-LWMs&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jaychempan/Awesome-LWMs&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jaychempan/Awesome-LWMs&type=Date" />
+ </picture>
+</a>
+
+
+## 🎉 Contributors
+<a href="https://github.com/jaychempan/Awesome-LWMs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jaychempan/Awesome-LWMs" />
+</a>
