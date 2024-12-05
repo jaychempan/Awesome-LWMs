@@ -78,7 +78,6 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | FengWu-4DVar  | Tsinghua        | 2023.12          | ICML 2024      | [[paper]](https://arxiv.org/abs/2312.12455)                  | -             | -       |
 | FengWu-Adas   | Shanghai AI Lab | 2023.12          | -              | [[paper]](https://arxiv.org/abs/2312.12462)                  | -             | -       |
 | FuXi-S2S      | Fudan           | 2023.12          | Nature Communications | [[arXiv paper]](https://arxiv.org/abs/2312.09926) [[NC paper]](https://www.nature.com/articles/s41467-024-50714-1) | - | - |
-| GenCast       | DeepMind        | 2023.12          | -              | [[paper]](https://arxiv.org/abs/2312.15796)                  | -             | -       |
 | DiffCast      | HITsz           | 2023.12          | CVPR 2024      | [[paper]](https://arxiv.org/abs/2312.06734)                  | -             | -       |
 | FengWu-GHR    | Shanghai AI Lab | 2024.01          | -              | [[paper]](https://arxiv.org/abs/2402.00059)                  | -             | -       |
 | ExtremeCast   | Shanghai AI Lab | 2024.02          | -              | [[paper]](https://arxiv.org/abs/2402.01295) [[github]](https://github.com/black-yt/ExtremeCast) | Not Specified | Not Specified |
@@ -94,6 +93,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | ORCA          | Shanghai AI Lab | 2024.05          | -              | [[paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA) | - | - |
 | MetMamba      | Beijing PRESKY Technology | 2024.08 | - | [[paper]](https://www.arxiv.org/pdf/2408.06400) | Not Specified | Not Specified |
 | Prithvi-WxC   | IBM / Nasa       | 2024.09         |                | [[paper]](https://arxiv.org/abs/2409.13598) [[Hugging Face]](https://huggingface.co/Prithvi-WxC) | [[CDLA Permissive 2.0]](https://spdx.org/licenses/CDLA-Permissive-2.0)             | [[CDLA Permissive 2.0]](https://spdx.org/licenses/CDLA-Permissive-2.0)       |
+| GenCast      | Google DeepMind       | 2024.12         |                | [[paper]](https://www.nature.com/articles/s41586-024-08252-9) [[github]](https://huggingface.co/Prithvi-WxC](https://github.com/google-deepmind/graphcast)) | [[Apache 2.0]](https://github.com/google-deepmind/graphcast/blob/main/LICENSE)             | [[CC-BY-NC-SA 4.0]](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 
 ## 🗃️ Dataset Lists
