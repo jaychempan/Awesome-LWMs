@@ -24,6 +24,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
+- 2024/12/11: ECMWF releases its Artificial Intelligence Forecast System (AIFS) model and weights freely available on the web [[link]](https://www.ecmwf.int/en/about/media-centre/aifs-blog/2024/first-aifs-model-weights-are-now-open)
 - 2024/12/04: Google DeepMind releases GenCast, an ensemble AI forecast model [[link]](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/)
 - 2024/09/20: IBM and Nasa Prithvi-WxC Foundation model [[link]](https://arxiv.org/abs/2409.13598)
 - 2024/08/15: MetMamba, a DLWP model built on a state-of-the-art state-space model, Mamba, offers notable performance gains [[link]](https://www.arxiv.org/pdf/2408.06400);
@@ -94,7 +95,9 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | ORCA          | Shanghai AI Lab | 2024.05          | -              | [[arXiv paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA) | - | - |
 | MetMamba      | Beijing PRESKY Technology | 2024.08 | - | [[paper]](https://www.arxiv.org/pdf/2408.06400) | Not Specified | Not Specified |
 | Prithvi-WxC   | IBM / Nasa       | 2024.09         |                | [[arXiv paper]](https://arxiv.org/abs/2409.13598) [[Hugging Face]](https://huggingface.co/Prithvi-WxC) | [[CDLA Permissive 2.0]](https://spdx.org/licenses/CDLA-Permissive-2.0)             | [[CDLA Permissive 2.0]](https://spdx.org/licenses/CDLA-Permissive-2.0)       |
-| GenCast      | Google DeepMind       | 2024.12         |                | [[paper]](https://www.nature.com/articles/s41586-024-08252-9) [[github]](https://huggingface.co/Prithvi-WxC](https://github.com/google-deepmind/graphcast)) | [[Apache 2.0]](https://github.com/google-deepmind/graphcast/blob/main/LICENSE)             | [[CC-BY-NC-SA 4.0]](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+| GenCast      | Google DeepMind       | 2024.12         | Nature      | [[paper]](https://www.nature.com/articles/s41586-024-08252-9) [[github]](https://github.com/google-deepmind/graphcast) | [[Apache 2.0]](https://github.com/google-deepmind/graphcast/blob/main/LICENSE)             | [[CC-BY-NC-SA 4.0]](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+| AIFS      | ECMWF       | 2024.12         |                | [[arXiv paper]](https://arxiv.org/abs/2406.01465) [[Hugging Face]](https://huggingface.co/ecmwf/aifs-single) | [[CC BY 4.0]](https://creativecommons.org/licenses/by/4.0/)             | [[CC BY 4.0]](https://creativecommons.org/licenses/by/4.0/)
+
 
 ## 🗃️ Dataset Lists
 | Dataset name     | From            | Date(1st) | Publication | Links                                     |
