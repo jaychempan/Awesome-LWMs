@@ -94,7 +94,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | ORCA          | Shanghai AI Lab | 2024.05          | -              | [[arXiv paper]](https://arxiv.org/abs/2405.15412) [[github]](https://github.com/OpenEarthLab/ORCA) | - | - |
 | MetMamba      | Beijing PRESKY Technology | 2024.08 | - | [[paper]](https://www.arxiv.org/pdf/2408.06400) | Not Specified | Not Specified |
 | Prithvi-WxC   | IBM / Nasa       | 2024.09         |                | [[arXiv paper]](https://arxiv.org/abs/2409.13598) [[Hugging Face]](https://huggingface.co/Prithvi-WxC) | [[CDLA Permissive 2.0]](https://spdx.org/licenses/CDLA-Permissive-2.0)             | [[CDLA Permissive 2.0]](https://spdx.org/licenses/CDLA-Permissive-2.0)       |
-
+| GenCast      | Google DeepMind       | 2024.12         |                | [[paper]](https://www.nature.com/articles/s41586-024-08252-9) [[github]](https://huggingface.co/Prithvi-WxC](https://github.com/google-deepmind/graphcast)) | [[Apache 2.0]](https://github.com/google-deepmind/graphcast/blob/main/LICENSE)             | [[CC-BY-NC-SA 4.0]](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## 🗃️ Dataset Lists
 | Dataset name     | From            | Date(1st) | Publication | Links                                     |
