@@ -156,7 +156,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling [[pdf]](https://arxiv.org/pdf/2402.04290)
 - Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [[pdf]](https://arxiv.org/pdf/2405.13796)
 ### Physics-AI
-- Neural General Circulation Models for Weather and Climate [[pdf]](https://arxiv.org/pdf/2311.07222)
+- NeuralGCM: Neural General Circulation Models for Weather and Climate [[pdf]](https://arxiv.org/pdf/2311.07222)
 - ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs [[pdf]](https://arxiv.org/pdf/2404.10024)
 - Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling [[pdf]](https://arxiv.org/pdf/2405.13796)
 ### Datasets
@@ -175,6 +175,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 - SEEDS: Generative emulation of weather forecast ensembles with diffusion models [[pdf]](https://www.science.org/doi/pdf/10.1126/sciadv.adk4489)
 - Aurora: A Foundation Model of the Atmosphere [[pdf]](https://arxiv.org/pdf/2405.13063)
 - ORCA: A Global Ocean Emulator for Multi-year to Decadal Predictions [[pdf]](https://arxiv.org/pdf/2405.15412)
+- GraphDOP: Towards skilful data-driven medium-range weather forecasts learnt and initialised directly from observations [[pdf]](https://arxiv.org/abs/2412.15687)
 ## 🚀 Code
 - [ECMWF AI Models](https://github.com/ecmwf-lab/ai-models): AI-based weather forecasting models.
 - [Skyrim](https://github.com/secondlaw-ai/skyrim): AI weather models united.
