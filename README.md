@@ -24,6 +24,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
+- 2024/12/20: AIFS–CRPS, an extension of ECMWF's Artificial Intelligence Forecast System (AIFS), focuses on optimizing probabilistic forecasts using the Continuous Ranked Probability Score (CRPS) [[link]](https://arxiv.org/abs/2412.15832). 
 - 2024/12/20: GraphDOP, a new data-driven, end-to-end forecast system developed by ECMWF that is trained and initialised exclusively from Earth System observations, with no physics-based reanalysis inputs or feedbacks [[link]](https://arxiv.org/abs/2412.15687).
 - 2024/12/17: ArchesWeatherGen, a compact and accessible probabilistic weather model from built on INRIA's ArchesWeather deterministic predictions, is tailored for academic research with minimal computational resources [[link]](https://arxiv.org/abs/2412.12971).
 - 2024/12/11: ECMWF releases its Artificial Intelligence Forecast System (AIFS) model and weights freely available on the web [[link]](https://www.ecmwf.int/en/about/media-centre/aifs-blog/2024/first-aifs-model-weights-are-now-open)
@@ -100,6 +101,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | AIFS      | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2406.01465) [[Hugging Face]](https://huggingface.co/ecmwf/aifs-single) | [[CC BY 4.0]](https://creativecommons.org/licenses/by/4.0/)             | [[CC BY 4.0]](https://creativecommons.org/licenses/by/4.0/)
 | ArchesWeatherGen      | INRIA       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/pdf/2412.12971)[[github]](https://github.com/gcouairon/ArchesWeather)  | Not Specified             | Not Specified
 | GraphDOP      | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2412.15687)  | -             | -
+| AIFS-CRPS     | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2412.15832)  | -             | -
 
 ## 🗃️ Dataset Lists
 | Dataset name     | From            | Date(1st) | Publication | Links                                     |
