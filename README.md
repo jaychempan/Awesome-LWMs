@@ -24,7 +24,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
-- 2024/12/20: GraphDOP, a new data-driven, end-to-end forecast system developped by ECMWF that is trained and initialised exclusively from Earth System observations, with no physics-based reanalysis inputs or feedbacks [[link]](https://arxiv.org/abs/2412.15687).
+- 2024/12/20: GraphDOP, a new data-driven, end-to-end forecast system developed by ECMWF that is trained and initialised exclusively from Earth System observations, with no physics-based reanalysis inputs or feedbacks [[link]](https://arxiv.org/abs/2412.15687).
 - 2024/12/11: ECMWF releases its Artificial Intelligence Forecast System (AIFS) model and weights freely available on the web [[link]](https://www.ecmwf.int/en/about/media-centre/aifs-blog/2024/first-aifs-model-weights-are-now-open)
 - 2024/12/04: Google DeepMind releases GenCast, an ensemble AI forecast model [[link]](https://deepmind.google/discover/blog/gencast-predicts-weather-and-the-risks-of-extreme-conditions-with-sota-accuracy/)
 - 2024/09/20: IBM and Nasa Prithvi-WxC Foundation model [[link]](https://arxiv.org/abs/2409.13598)
