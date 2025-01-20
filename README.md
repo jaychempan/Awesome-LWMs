@@ -99,7 +99,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | MetMamba      | Beijing PRESKY Technology | 2024.08 | - | [[paper]](https://www.arxiv.org/pdf/2408.06400) | Not Specified | Not Specified |
 | Prithvi-WxC   | IBM / Nasa       | 2024.09         | -              | [[arXiv paper]](https://arxiv.org/abs/2409.13598) [[Hugging Face]](https://huggingface.co/Prithvi-WxC) | [[CDLA Permissive 2.0]](https://spdx.org/licenses/CDLA-Permissive-2.0)             | [[CDLA Permissive 2.0]](https://spdx.org/licenses/CDLA-Permissive-2.0)       |
 | AIFS      | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2406.01465) [[Hugging Face]](https://huggingface.co/ecmwf/aifs-single) | [[CC BY 4.0]](https://creativecommons.org/licenses/by/4.0/)             | [[CC BY 4.0]](https://creativecommons.org/licenses/by/4.0/)
-| ArchesWeatherGen      | INRIA       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/pdf/2412.12971)[[github]](https://github.com/gcouairon/ArchesWeather)  | Not Specified             | Not Specified
+| ArchesWeatherGen      | INRIA       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/pdf/2412.12971)[[github]](https://github.com/gcouairon/ArchesWeather)  |  [[CC BY 4.0]](https://creativecommons.org/licenses/by/4.0/)             | [[CC BY 4.0]](https://creativecommons.org/licenses/by/4.0/)
 | GraphDOP      | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2412.15687)  | -             | -
 | AIFS-CRPS     | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2412.15832)  | -             | -
 
