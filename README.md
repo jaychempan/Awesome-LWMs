@@ -24,6 +24,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
+- 2024/02/01: OneForecast, a global-regional nested weather forecasting framework based on graph neural networks [[link]](https://arxiv.org/abs/2502.00338). 
 - 2024/12/20: AIFS–CRPS, an extension of ECMWF's Artificial Intelligence Forecast System (AIFS), focuses on optimizing probabilistic forecasts using the Continuous Ranked Probability Score (CRPS) [[link]](https://arxiv.org/abs/2412.15832). 
 - 2024/12/20: GraphDOP, a new data-driven, end-to-end forecast system developed by ECMWF that is trained and initialised exclusively from Earth System observations, with no physics-based reanalysis inputs or feedbacks [[link]](https://arxiv.org/abs/2412.15687).
 - 2024/12/17: ArchesWeatherGen, a compact and accessible probabilistic weather model from built on INRIA's ArchesWeather deterministic predictions, is tailored for academic research with minimal computational resources [[link]](https://arxiv.org/abs/2412.12971).
@@ -102,6 +103,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | ArchesWeatherGen      | INRIA       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/pdf/2412.12971)[[github]](https://github.com/gcouairon/ArchesWeather)  |  [[CC-BY-NC-SA 4.0]](https://creativecommons.org/licenses/by-nc-sa/4.0/)             | [[CC-BY-NC-SA 4.0]](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | GraphDOP      | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2412.15687)  | -             | -
 | AIFS-CRPS     | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2412.15832)  | -             | -
+| OneForecast     | Tsinghua       | 2024.02         | -               | [[arXiv paper]](https://arxiv.org/abs/2502.00338) [[github]](https://github.com/YuanGao-YG/OneForecast) | -             | -
 
 ## 🗃️ Dataset Lists
 | Dataset name     | From            | Date(1st) | Publication | Links                                     |
