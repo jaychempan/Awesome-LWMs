@@ -103,7 +103,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | ArchesWeatherGen      | INRIA       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/pdf/2412.12971)[[github]](https://github.com/gcouairon/ArchesWeather)  |  [[CC-BY-NC-SA 4.0]](https://creativecommons.org/licenses/by-nc-sa/4.0/)             | [[CC-BY-NC-SA 4.0]](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 | GraphDOP      | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2412.15687)  | -             | -
 | AIFS-CRPS     | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2412.15832)  | -             | -
-| OneForecast     | Tsinghua       | 2025.02         | -               | [[arXiv paper]](https://arxiv.org/abs/2502.00338) [[github]](https://github.com/YuanGao-YG/OneForecast) | -             | -
+| OneForecast     | Tsinghua       | 2025.02         | -               | [[arXiv paper]](https://arxiv.org/abs/2502.00338) [[github]](https://github.com/YuanGao-YG/OneForecast) | [[MIT]](https://github.com/YuanGao-YG/OneForecast/blob/main/LICENSE)             | [[MIT]](https://github.com/YuanGao-YG/OneForecast/blob/main/LICENSE)?
 
 ## 🗃️ Dataset Lists
 | Dataset name     | From            | Date(1st) | Publication | Links                                     |
