@@ -24,6 +24,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
+- 2025/02/25: Artificial Intelligence Forecasting System (AIFS), ECMWF’s AI forecasts, become operational [[link]](https://www.ecmwf.int/en/about/media-centre/news/2025/ecmwfs-ai-forecasts-become-operational).
 - 2025/02/01: OneForecast, a global-regional nested weather forecasting framework based on graph neural networks [[link]](https://arxiv.org/abs/2502.00338). 
 - 2024/12/20: AIFS–CRPS, an extension of ECMWF's Artificial Intelligence Forecast System (AIFS), focuses on optimizing probabilistic forecasts using the Continuous Ranked Probability Score (CRPS) [[link]](https://arxiv.org/abs/2412.15832). 
 - 2024/12/20: GraphDOP, a new data-driven, end-to-end forecast system developed by ECMWF that is trained and initialised exclusively from Earth System observations, with no physics-based reanalysis inputs or feedbacks [[link]](https://arxiv.org/abs/2412.15687).
