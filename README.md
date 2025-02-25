@@ -115,6 +115,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | WeatherBench2    | Google        | 2023.08        | -              | [[paper]](https://arxiv.org/abs/2308.15560) [[github]](https://github.com/google-research/weatherbench2) |
 | CRA5             | Shanghai AI Lab        | 2024.05        | -              | [[paper]](https://arxiv.org/abs/2405.03376) [[github]](https://github.com/taohan10200/CRA5)| 
 | WEATHER-5K       | Beijing PRESKY Technology        | 2024.08        | -              | [[paper]](https://www.arxiv.org/pdf/2408.06400)  |
+| Extreme Weather Bench       | Brightband         | 2025.01        | -              | [[blog]](https://www.brightband.com/blog/extreme-weather-bench/)[[github]](https://github.com/brightbandtech/ExtremeWeatherBench)  |
 
 
 
