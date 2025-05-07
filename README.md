@@ -105,6 +105,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | GraphDOP      | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2412.15687)  | -             | -
 | AIFS-CRPS     | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2412.15832)  | -             | -
 | OneForecast     | Tsinghua       | 2025.02         | -               | [[arXiv paper]](https://arxiv.org/abs/2502.00338) [[github]](https://github.com/YuanGao-YG/OneForecast) | [[MIT]](https://github.com/YuanGao-YG/OneForecast/blob/main/LICENSE)             | [[MIT]](https://github.com/YuanGao-YG/OneForecast/blob/main/LICENSE)?
+| Appa     | University of Liège       | 2025.04         | -               | [[arXiv paper]](https://arxiv.org/abs/2504.18720)  | -             | -
 
 ## 🗃️ Dataset Lists
 | Dataset name     | From            | Date(1st) | Publication | Links                                     |
