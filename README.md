@@ -24,6 +24,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
     - [More](#more)
   - [🚀 Code](#-code)
 ## 🆕 LWMs News
+- 2025/06/12: Environment and Climate Change Canada (ECCC) has released an experimental version of its Global Deterministic Prediction System (GDPS), where the physical weather model is spectrally nudged toward forecasts from GEML, an AI-based emulator (Global Environmental eMuLator) [[link]](https://comm.collab.science.gc.ca/mailman3/hyperkitty/list/dd_info@comm.collab.science.gc.ca/thread/D3ELXLOLV2F2OORRNNI746H2ZDF3RWVD/).
 - 2025/02/25: Artificial Intelligence Forecasting System (AIFS), ECMWF’s AI forecasts, become operational [[link]](https://www.ecmwf.int/en/about/media-centre/news/2025/ecmwfs-ai-forecasts-become-operational).
 - 2025/02/01: OneForecast, a global-regional nested weather forecasting framework based on graph neural networks [[link]](https://arxiv.org/abs/2502.00338). 
 - 2024/12/20: AIFS–CRPS, an extension of ECMWF's Artificial Intelligence Forecast System (AIFS), focuses on optimizing probabilistic forecasts using the Continuous Ranked Probability Score (CRPS) [[link]](https://arxiv.org/abs/2412.15832). 
@@ -106,6 +107,7 @@ A collection of articles on **Large Weather Models (LWMs)**, to make it easier t
 | AIFS-CRPS     | ECMWF       | 2024.12         | -               | [[arXiv paper]](https://arxiv.org/abs/2412.15832)  | -             | -
 | OneForecast     | Tsinghua       | 2025.02         | -               | [[arXiv paper]](https://arxiv.org/abs/2502.00338) [[github]](https://github.com/YuanGao-YG/OneForecast) | [[MIT]](https://github.com/YuanGao-YG/OneForecast/blob/main/LICENSE)             | [[MIT]](https://github.com/YuanGao-YG/OneForecast/blob/main/LICENSE)?
 | Appa     | University of Liège       | 2025.04         | -               | [[arXiv paper]](https://arxiv.org/abs/2504.18720)  | -             | -
+| GEML     |  Environment and Climate Change Canada      | 2025.06         | -               | [[Documentation]](https://eccc-msc.github.io/open-data/msc-data/nwp_gdps/readme_gdps-geml-datamart_en/)<br>[[Hugging Face]](https://huggingface.co/ECCC-ASTD-MRD/geml)  | [[Apache 2.0]](https://github.com/csubich/graphcast/blob/graphcast_train/LICENSE)          | [Open Government Licence](https://huggingface.co/ECCC-ASTD-MRD/geml/blob/main/LICENSE.txt)
 
 ## 🗃️ Dataset Lists
 | Dataset name     | From            | Date(1st) | Publication | Links                                     |
